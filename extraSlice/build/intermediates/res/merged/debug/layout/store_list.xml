@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_third_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/headerlyt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_third_color" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="#330B4C5F"
+            android:gravity="left"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1.25"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Active stores"
+                android:textColor="#707375"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/storeList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/scanframelyt"
+        android:layout_below="@+id/headerlyt"
+        android:cacheColorHint="@color/black_transparent"
+    
+        android:fadingEdge="none"
+        android:listSelector="@color/black_transparent"
+        android:scrollbars="none"
+         android:divider="@color/blueBaground"
+                android:dividerHeight="1px"
+        android:visibility="visible" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/noStoresMsg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/scanframelyt"
+        android:layout_alignTop="@+id/storeList"
+        android:layout_below="@+id/storelyt"
+        android:layout_centerInParent="true"
+        android:cacheColorHint="@color/black_transparent"
+        android:divider="#11268CAB"
+        android:dividerHeight="1dp"
+        android:gravity="center"
+        android:text="No active stores"
+        android:textSize="18dp" />
+
+    <LinearLayout
+        android:id="@+id/scanframelyt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:gravity="center_vertical|center_horizontal" >
+
+        <Button
+            android:id="@+id/addstore"
+            android:layout_width="85dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/oval_background"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="Add"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/frame_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

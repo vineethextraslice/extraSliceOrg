@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_third_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/storelyt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_third_color"
+        android:gravity="center" >
+
+        <Spinner
+            android:id="@+id/storeSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/grey_bg_spinner"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/headerlyt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/storelyt"
+        android:layout_marginTop="2dp"
+        android:background="@color/theme_third_color" >
+
+      <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#330B4C5F"
+            android:gravity="left"
+            android:orientation="horizontal"
+            android:weightSum="5" >
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1.3"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Item"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight=".5"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Price"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight=".6"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Tax %"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight=".7"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Count"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1.9"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Action"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lbllist"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/scanframelyt"
+        android:layout_below="@+id/headerlyt"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:cacheColorHint="@color/black_transparent"
+        android:listSelector="@color/black_transparent"
+         android:divider="@color/blueBaground"
+                android:dividerHeight="1px"
+        android:scrollbars="none" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/noStoresMsgProducts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/scanframelyt"
+        android:layout_alignTop="@+id/lbllist"
+        android:layout_below="@+id/headerlyt"
+        android:layout_centerInParent="true"
+        android:cacheColorHint="@color/black_transparent"
+        android:divider="#11268CAB"
+        android:dividerHeight="1dp"
+        android:gravity="center"
+        android:text="No inactive products"
+        android:textSize="18dp" />
+
+</RelativeLayout>

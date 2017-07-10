@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:background="#1A8EBD"
+    android:padding="0dp" >
+
+    <ImageButton
+        android:id="@+id/walknpay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="5dp"
+        android:background="#1A8EBD"
+        android:src="@drawable/walknpaynew" />
+
+    <LinearLayout
+        android:id="@+id/checkout"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignRight="@+id/walknpay"
+        android:layout_marginRight="10dp"
+        android:gravity="right"
+        android:background="#1A8EBD"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:id="@+id/checkoutframe"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="#1A8EBD" >
+
+            <TextView
+                android:id="@+id/count"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="1dp"
+                android:alpha="1"
+                android:background="@drawable/circular_background"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="@color/white"
+                android:textSize="7dp" />
+
+            <ImageView
+                android:id="@+id/checkoutbutton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="13dp"
+                android:alpha="1.0"
+                android:padding="2dp"
+                android:src="@drawable/checkout" />
+        </FrameLayout>
+    </LinearLayout>
+
+</RelativeLayout>

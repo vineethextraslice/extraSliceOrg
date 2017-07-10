@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">extraSlice</string>
+    <string name="version">3.2.2</string>
+    <string name="textAbout">walkNpay is a mobile self-checkout and customer engagement system to ease your in-store shopping experience.</string>
+    <string name="website"><u>Website</u></string>
+    <string name="privacy"><u>Privacy Policy</u></string>
+    <string name="booknow">Book now</string>
+    <string name="details"><u>Details</u></string>
+    <string name="termsncondition"><![CDATA[I accept <b><u><font color=#1F5269>Terms and Conditions</font></u></b>]]></string>
+    <string name="setupNewSubs"><![CDATA[You donot have a payment set up for membership subscription. Do you want to set up now? <b><u><font color=#1F5269>Set up</font></u></b>]]></string>
+    <string name="addCardToNewSubs"><![CDATA[You donot have a payment set up for membership subscription. Do you want to set up subscription using this card?]]></string>
+    <string name="changeSubs"><![CDATA[Do you want to use this card for all subscriptions? ]]></string>
+    <string name="changeDefCard"><![CDATA[Card used for XXX subscription. Do you want to change?<b><u><font color=#1F5269>Change</font></u></b> ]]></string>
+    
+    <string name="cancelSubscription"><![CDATA[<b><u><font color=#1F5269>Unsubscribe</font></u></b>]]></string>
+    <string name="viewPlan"><![CDATA[<b><u><font color=#1F5269>View</font></u></b>]]></string>
+    <string name="detailsUrl"><![CDATA[<u><font color=@color/white>View Cart</font></u>]]></string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Reservation</item>
+        <item>My Bookings</item>
+        <item>Support</item>
+        <item>walkNpay store</item>
+        <item>About</item>
+        <item>Logout</item>
+        <item>Join extraSlice</item>
+        <item>Wallet</item>
+        <item>Profile</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home_w</item>
+        <item>@drawable/reserve_w</item>
+        <item>@drawable/mybooking_w</item>
+        <item>@drawable/support_w</item>
+        <item>@drawable/walknpay2</item>
+        <item>@drawable/about_w</item>
+        <item>@drawable/logout_w</item>
+        <item>@drawable/joinslice</item>
+         <item>@drawable/wallet_w</item>
+         <item>@drawable/profile_w</item>
+    </array>
+
+    <string name="action_settings">Change store name</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="txtscan_welcome">Welcome Sam Hunter!</string>
+    <string name="txtemail">Email ID</string>
+    <string name="txtpassword">Password</string>
+    <string name="txtlogin">Log in</string>
+    <string name="txtregister">Register</string>
+    <string name="txtforgetpwd">Forgot Password ?</string>
+    <string name="txtwalknpay">Walk N Pay</string>
+    <string name="txtpaymentpwd">Payment Password</string>
+    <string name="txtreg_header">Register Yourself to Walk n Pay</string>
+    <string name="txtCD"></string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="wnp_drawer_items">
+        <item>Home</item>
+        <item>Scan</item>
+        <item>Cart</item>
+        <item>Wallet</item>
+        <item>Checkout</item>
+        <item>Change store</item>
+        <item>Support</item>
+        <item>About</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="wnp_drawer_icons">
+        <item>@drawable/home_black</item>
+        <item>@drawable/qr_scanner</item>
+        <item>@drawable/checkout</item>
+        <item>@drawable/purse</item>
+        <item>@drawable/paymentblack</item>
+        <item>@drawable/store_black</item>
+        <item>@drawable/headset</item>
+        <item>@drawable/about13</item>
+        <item>@drawable/logout_black</item>
+    </array>
+    <!-- Scan Tab -->
+    <string name="txtscan_alert">I am not Sam</string>
+    <string name="txtlogout">Logout</string>
+    <string name="txtsubmit">Submit</string>
+
+    <!-- cart Tab -->
+    <string name="noproductmessage">Your cart is empty, Please scan to add items</string>
+    <string name="txtnoproducts">No products available</string>
+    <string name="txtDesc">Description</string>
+    <string name="txtQuantity">Quantity</string>
+    <string name="txtPrice">Price</string>
+    <string name="txtAmount">Amount</string>
+    <string name="txtzero">$00.00</string>
+    <string name="txtrewards">Rewards</string>
+    <string name="txtsubtotal">Sub Total</string>
+    <string name="txttax">Tax</string>
+    <string name="txttotal">Total</string>
+    <string name="txtitem">Item</string>
+    <string name="myaccount">My Account</string>
+
+    <!-- Rewards tab -->
+
+    <string name="txtsavings">Savings on this visit</string>
+    <string name="txtlifetime">Lifetime Savings</string>
+    <string name="txtlifetimeamt">$125.30</string>
+
+    <!-- pay -->
+
+    <string name="txtpay_head">Choose your Payment</string>
+    <string name="txtpay_amt">Amount</string>
+    <string name="citi_card">My Citi Master\n(Card ending with 890)</string>
+    <string name="visa_card">Bofa Visa\n(Card ending with 347)</string>
+    <string name="chasedebit_card">Chase Debit\n(Card ending with 745)</string>
+    <string name="paidtext">Your payment of $22.90 is completed using \'my citi master\' card. Thank you for your purchase.</string>
+    <string name="paidresult">Receipt of your transaction is placed in your wallet.</string>
+    <string name="txtcancel">Cancel</string>
+    <string name="txtpay">Pay</string>
+    <string name="txtamt">Amount</string>
+
+    <color name="white_transparent">#00FFFFFF</color>
+
+    <string-array name="cardslist">
+        <item>my citi master (ends with 890)</item>
+        <item>bofa visa (ends with 347)</item>
+        <item>chase debit (ends with 745)</item>
+    </string-array>
+    <string-array name="recentbills">
+        <item>Today (Huggies...)</item>
+        <item>Yesterday (blender...)</item>
+    </string-array>
+
+    <string name="walletmycreditcards">My Credit/Debit cards</string>
+    <string name="walletmycreditcardsinfo">Card info is encrypted &amp; saved locally</string>
+    <string name="walletrecentbills">My recent receipts</string>
+    <string name="walletrecentbillssearch">Search with items or dates</string>
+    <string name="walletrecentbillssearchedit">Enter search text</string>
+    <string name="Back">Back</string>
+    <string name="Popup_button">Popup_Menu</string>
+    <string name="menu_signout">Sign Out</string>
+    <string name="menu_associate">Associate mode</string>
+    <string name="menu_about">About</string>
+    <string name="menu_help">Help</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- ALERT DIALOG TEXT -->
+    <string name="topup"><u>Recharge</u></string>
+    <string name="view"><u>View</u></string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="loginalertmessage">Do you want to exit from the app?</string>
+    <string name="unknown_product">The scanned item is not in the library!</string>
+    <string name="logoutalertmessage">Confirm logout from this account?</string>
+    <string name="appName">Stripe Payments Example</string>
+    <string name="addPayment">Add Payment Method</string>
+    <string name="paymentMethods">Payment Methods</string>
+    <string name="endingIn">Card ending in </string>
+    <string name="progressMessage">Creating Token&#8230;</string>
+    <string name="validationErrors">Validation Errors</string>
+    <string name="cardNumber">Card Number</string>
+    <string name="save">Save</string>
+    <string name="cvc">CVC</string>
+    <string name="ok">OK</string>
+    <string name="myreceipts">My Receipts</string>
+    <string name="mycards">My Cards</string>
+    <string name="active_stores">Active Stores</string>
+    <string name="inactive_stores">InActive Stores</string>
+    <string name="active_products">Active Products</string>
+    <string name="inactive_products">Inactive Products</string>
+    <string name="textAboutWnp">walkNpay is a mobile self-checkout and customer engagement system to ease your in-store shopping experience.</string>
+    <string name="support"><u>Support</u></string>
+    <string name="iaccept">I accept to the</string>
+    <string name="more"><u>More...</u></string>
+    <string name="termsofuse"><u>Terms and Conditions</u></string>
+    <string name="header1">Welcome to the WalkNPay Privacy Policy</string>
+    <string name="content1">We value the trust you place in us. That is why we insist upon the highest standards for secure
+transactions and customer information privacy. Please read the following statement to learn about our
+information gathering and dissemination practices</string>
+    <string name="content2">Our privacy policy is subject to change at any time without notice. To make sure you are aware of any
+changes, please review this policy periodically.</string>
+    <string name="header2">Personal Data collected for the following purposes and using the
+following services:</string>
+
+</resources>

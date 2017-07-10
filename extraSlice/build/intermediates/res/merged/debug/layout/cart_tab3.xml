@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:fillViewport="true" >
+
+        <ListView
+            android:id="@+id/lbllist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:cacheColorHint="@color/black_transparent"
+            android:fadeScrollbars="false"
+            android:fadingEdge="none"
+            android:listSelector="@color/black_transparent"
+            android:scrollbars="none" />
+    </HorizontalScrollView>
+
+</RelativeLayout>

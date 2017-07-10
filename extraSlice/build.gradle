@@ -1,0 +1,75 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion '25.0.0'
+    dexOptions {
+        javaMaxHeapSize "4g"
+        preDexLibraries = false
+    }
+    lintOptions {
+        disable "ResourceType"
+        disable 'ValidFragment'
+        checkReleaseBuilds false
+    }
+    defaultConfig {
+        applicationId "com.app.extraslice"
+        minSdkVersion 14
+        targetSdkVersion 22
+        multiDexEnabled true
+    }
+    configurations {
+        compile.exclude module: 'stax'
+        compile.exclude module: 'stax-api'
+        compile.exclude module: 'xpp3'
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        //exclude 'META-INF/NOTICE'
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile ('com.android.support:support-v4:25.0.0'){
+        exclude module: 'support-v4'
+    }
+    compile project(':ZXingLib')
+
+    compile files('libs/PayPalAndroidSDK-2.9.0.jar')
+    compile files('libs/activation.jar')
+    compile files('libs/additionnal.jar')
+   // compile files('libs/android-support-v4.jar')
+    compile files('libs/asmack-android-4.jar')
+   // compile files('libs/com.fasterxml.jackson.databind.jar')
+   // compile files('libs/core.jar')
+    compile files('libs/gson-2.2.4.jar')
+   // compile files('libs/jackson-core-asl-1.9.13.jar')
+  //  compile ('com.springsource.org.codehaus.jackson')
+   /* compile (group: 'org.codehaus.jackson', name: 'jackson-core-asl', version: '1.9.13')
+            {
+                exclude group: 'org.codehaus.jackson', module: 'jackson-mapper-asl'
+            }
+    compile (group: 'org.codehaus.jackson', name: 'jackson-mapper-asl', version: '1.9.13')
+            {
+                exclude group: 'org.codehaus.jackson', module: 'jackson-core-asl'
+            }*/
+
+    compile files('libs/jackson-all-1.9.0.jar')
+    compile (group: 'org.codehaus.jettison', name: 'jettison', version: '1.1')
+
+    //compile files('libs/jettison-1.1.jar')
+    compile files('libs/jmf.jar')
+    compile files('libs/json-simple.jar')
+    compile files('libs/mail.jar')
+    compile files('libs/smackx-jingle.jar')
+    compile files('libs/stripe-java-2.8.0.jar')
+    compile files('libs/sun.misc.BASE64Decoder.jar')
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/raw/zxinglib_beep.ogg",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/raw/zxinglib_beep.ogg"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/raw/beep.mp3",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/raw/beep.mp3"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/raw/beeep.mp3",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/raw/beeep.mp3"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/raw/beepbeep.mp3",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/raw/beepbeep.mp3"
+    }
+]

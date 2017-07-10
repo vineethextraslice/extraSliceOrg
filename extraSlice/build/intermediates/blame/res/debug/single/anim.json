@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/rotation.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/rotation.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/slide.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/slide.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_right_to_left_exit.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_right_to_left_exit.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_right_to_left_enter.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_right_to_left_enter.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/slide2.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/slide2.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_left_to_right_enter.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_left_to_right_enter.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_left_to_right_exit.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_left_to_right_exit.xml"
+    }
+]

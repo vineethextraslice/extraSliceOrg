@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+     android:background="@color/white"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.widget.DrawerLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MenuActivity" >
+
+        <!-- Framelayout to display Fragments -->
+
+        <FrameLayout
+            android:id="@+id/frame_container"
+            android:layout_width="match_parent"
+            android:background="@color/white"
+            android:layout_height="match_parent" />
+
+        <!-- Listview to display slider menu -->
+
+        <LinearLayout
+            android:id="@+id/drawer222"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/drawer444"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:background="@color/theme_light_blue"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/defaultprofilepic" />
+
+                <LinearLayout
+                    android:id="@+id/drawer333"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:background="@color/theme_light_blue"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/userProfileName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/list_slidermenu"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="start"
+                android:background="@color/list_background"
+                android:choiceMode="singleChoice"
+                android:divider="@color/list_divider"
+                android:dividerHeight="1dp"
+                android:listSelector="@drawable/list_selector"
+                android:padding="8.3dp" />
+        </LinearLayout>
+    </android.support.v4.widget.DrawerLayout>
+
+    <include
+        layout="@layout/selectstore"
+        android:visibility="gone" />
+
+</RelativeLayout>

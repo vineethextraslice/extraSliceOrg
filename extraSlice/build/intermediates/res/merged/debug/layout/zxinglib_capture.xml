@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <SurfaceView
+        android:id="@+id/zxinglib_preview_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical|center_horizontal" />
+
+    <jim.h.common.android.lib.zxing.ViewfinderView
+        android:id="@+id/zxinglib_viewfinder_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/black_transparent" />
+
+    <FrameLayout
+        android:id="@+id/cameraframe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="25dp" >
+
+        <ImageView
+            android:id="@+id/camera_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/camera" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/manualframe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|right"
+        android:layout_marginRight="25dp" >
+
+        <ImageView
+            android:id="@+id/manual_button1"
+            android:layout_width="80dp"
+            android:layout_height="90dp"
+            android:background="@drawable/bluerectangle"
+            android:paddingBottom="18dp"
+            android:paddingLeft="18dp"
+            android:paddingRight="18dp"
+            android:paddingTop="18dp"
+            android:src="@drawable/qr_scanner" />
+
+        <TextView
+            android:id="@+id/manual_buttontext"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center|bottom"
+            android:text="Manual"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/screen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="#1A8EBD"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/actionbartitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:background="@drawable/walknpay1"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textSize="38sp"
+            android:typeface="serif" >
+        </TextView>
+    </FrameLayout>
+
+</FrameLayout>

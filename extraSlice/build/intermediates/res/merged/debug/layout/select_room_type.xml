@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/theme_third_color"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/confRoom"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="Reserve a conference room"
+        android:textColor="@color/theme_light_blue"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/trainingRoom"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="Reserve a training room"
+        android:textColor="@color/theme_light_blue"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/eventRoom"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="Reserve an event room"
+        android:textColor="@color/theme_light_blue"
+        android:textSize="16dp" />
+
+</LinearLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@android:id/tabhost"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="#EFEFEF">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+
+		<TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+          android:weightSum="2"/>
+  <RelativeLayout
+        android:id="@+id/storelyt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_third_color" 
+          android:gravity="center">
+
+        <Spinner
+            android:id="@+id/storeSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+             android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+             android:background="@drawable/grey_bg_spinner"
+          
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+			<FrameLayout
+				android:id="@android:id/tabcontent"
+				android:layout_width="fill_parent"
+				android:layout_height="300dp">
+
+				<FrameLayout
+					android:id="@+id/tab_1"
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent" />
+
+				<FrameLayout
+					android:id="@+id/tab_2"
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent" />
+
+			</FrameLayout>
+		   <FrameLayout
+            android:id="@+id/scanframe1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true" >
+
+            <ImageView
+                android:id="@+id/scanner_button"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+      
+                android:paddingBottom="18dp"
+                android:paddingLeft="18dp"
+                android:paddingRight="18dp"
+                android:paddingTop="18dp"
+                android:src="@drawable/qr_scanner" />
+
+          <TextView
+                android:id="@+id/scanner_buttontext"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:gravity="center|bottom"
+                android:text="SCAN"
+                android:textColor="@color/black"
+                android:textStyle="bold" />  
+        </FrameLayout>	
+	</LinearLayout>
+	
+</TabHost>

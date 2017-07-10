@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/src/main/assets"/><source path="/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/src/debug/assets"/></dataSet></merger>

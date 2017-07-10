@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="edit_text_hint_color">#707070</color>
+    <color name="black">#000000</color>
+    <color name="theme_light_blue">#268CAB</color>
+    <color name="theme_color_trnsp_11">#11268CAB</color>
+    <color name="theme_color_trnsp_22">#22268CAB</color>
+    <color name="theme_color_trnsp_33">#33268CAB</color>
+    <color name="theme_color_trnsp_55">#55268CAB</color>
+    <color name="theme_color_trnsp_77">#77268CAB</color>
+    <color name="theme_color_trnsp_AA">#AA268CAB</color>
+    <color name="theme_color_trnsp_FF">#FF268CAB</color>
+    <color name="page_background_color">@color/white</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_bb">#BBFFFFFF</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="gray_bg">#E6E6E6</color>
+    <color name="red">#FF0000</color>
+    <color name="list_item_title">@color/black</color>
+    <color name="list_background">#F4F1EC</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#C5CCD4</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="blueBaground">#268CAB</color>
+    <color name="golden">#f7ef09</color>
+    <color name="actionbar_background">#0B4C5F</color>
+    <color name="green">#00ff00</color>
+    <color name="black_transparent">#00000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="theme_blue_color">#0B4C5F</color>
+    <color name="theme_second_color">#F89C77</color>
+    <color name="theme_third_color">@color/white</color>
+    <color name="text_blue">#347235</color>
+    <color name="spinnerItem">#F4F1EC</color>
+    <color name="editText">@color/black</color>
+    <color name="buttonText">@color/black</color>
+    <color name="headerText">@color/black</color>
+    <color name="lightblue">#b0cce8</color>
+    <color name="boarderline">#ced8db</color>
+    <color name="whiteshaded">#fcffff</color>
+    <color name="darkblue">#234687</color>
+    <color name="theme_dark_blue">#1F5269</color>
+    <color name="theme_green">#769A20</color>
+
+</resources>

@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/headset.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/headset.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room_002.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room_002.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/goforward.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/goforward.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/rb_blue_unsel.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/rb_blue_unsel.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/my_account.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/my_account.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_disabled_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/addtocartb.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/addtocartb.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/backwardarrow.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/backwardarrow.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/about13.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/about13.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/support_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/support_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/camera_gr.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/camera_gr.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/textfield_disabled_focused_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/paymentblack.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/paymentblack.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/error.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book6.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book6.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/credit_small.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/credit_small.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/delete1231.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/delete1231.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_focused_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/store_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/store_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/plus_test_dis.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/plus_test_dis.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/login.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logout_black.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logout_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/purse.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/purse.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/help.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/help.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/editpen.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/editpen.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_drawer2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpay2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpay2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/about12.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/about12.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book5.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book5.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/addtocart.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/addtocart.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/backwardarrowdis.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/backwardarrowdis.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/login_old.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/login_old.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkout30.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkout30.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/grey_bg_spinner.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/grey_bg_spinner.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/eslice1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/eslice1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/associatehelp.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/associatehelp.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/product_black.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/product_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/textfield_activated_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/deletetrash.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/deletetrash.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_default_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/plus_test.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/plus_test.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/success.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/success.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_focused_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pressed_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/go.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/go.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/goback.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/goback.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/textfield_disabled_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logo1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logo1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/joinextraslice.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/joinextraslice.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/swipeleft.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/swipeleft.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_normal_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book3.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book3.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/swiperight.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/swiperight.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/home_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/home_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkout.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkout.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/wallet_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/wallet_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/mail.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/mail.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/profile_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/profile_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logout_1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logout_1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/rightarrow.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/rightarrow.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslicelogo1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/extraslicelogo1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslice1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/extraslice1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_pressed_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logout_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logout_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/arrow_up.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/send_chat.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/send_chat.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpaysplashnew.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpaysplashnew.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/bluereceipt.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/bluereceipt.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkoutbig.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkoutbig.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/mybooking_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/mybooking_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/paymenterror.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/paymenterror.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/leftarrow.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/leftarrow.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_new_filled40.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkbox_new_filled40.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/image_1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/image_1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/reserve_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/reserve_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/forwardarrowdis.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/forwardarrowdis.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/receipt36.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/receipt36.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_list_black.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_list_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/textfield_default_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_black.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_menu_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_dropdown_background_up.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_dropdown_background_up.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_view_headline.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_view_headline.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/calendar.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/calendar.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/kizhi.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/kizhi.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/goback1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/goback1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/about_w.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/about_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/eslice2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/eslice2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/image_barcode.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/image_barcode.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/image_2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/image_2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/minus_test.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/minus_test.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/fvestar.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/fvestar.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/home_black.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/home_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpaynew.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpaynew.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/camera_bl.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/camera_bl.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_dropdown_background_down.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_dropdown_background_down.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/defaultprofilepic.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/defaultprofilepic.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/minus_test_dis.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/minus_test_dis.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslice2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/extraslice2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/cardbg.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/cardbg.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/addcard.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/addcard.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/delete.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/homepic.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/homepic.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/mybookings.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/mybookings.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_disabled_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkoutbig1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkoutbig1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/blue_bubble.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/blue_bubble.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/creditcardsplus.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/creditcardsplus.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_disabled_focused_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/mytag.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/mytag.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/arrow.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/forwardarrow.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/forwardarrow.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/textfield_focused_holo_dark.9.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logout_2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logout_2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/confirm.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/confirm.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/joinslice.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/joinslice.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_new_empty.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkbox_new_empty.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/camera.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpay1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpay1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ccare_head1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ccare_head1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/rewards_icon.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/rewards_icon.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/customer_head1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/customer_head1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/code.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/code.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/camera_bk.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/camera_bk.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkoutnew.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkoutnew.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/arrow2.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/arrow2.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/forum.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/forum.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/rb_blue_sel.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/rb_blue_sel.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/clear_test.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/clear_test.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book7.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book7.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book1.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/about3.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/about3.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslice.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/extraslice.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/qr_scanner.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/qr_scanner.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/arrow_down.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpaysplash.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpaysplash.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/offers.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/offers.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_new_empty40.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkbox_new_empty40.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book4.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book4.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/store_black.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/store_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslicelogo.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/extraslicelogo.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/credit_cards_blue.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/credit_cards_blue.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/store_home.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/store_home.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room_001.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room_001.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/loading.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/loading.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_home.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_home.png"
+    }
+]

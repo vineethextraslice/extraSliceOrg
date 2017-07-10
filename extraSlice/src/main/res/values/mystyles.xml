@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- For honeycomb and up -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <style name="myTheme" parent="android:style/Theme.Holo">
+           
+        <item name="android:actionBarStyle">@style/myTheme.ActionBar</item>
+       <!--  <item name="android:textStyle">normal</item>
+        <item name="android:textSize">10sp</item>
+         <item name="android:actionButtonStyle">@style/MyActionButtonStyle</item>
+        <item name="android:actionMenuTextColor">#b6f4f7</item> -->
+     
+    </style>
+<style name="MyActionButtonStyle" >
+    <item name="android:minWidth">32dip</item>
+    <item name="android:padding">45dip</item>
+</style>
+    <style name="myTheme.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/bg</item>
+             
+       
+       
+       <!--  <item name="android:titleTextStyle">@style/myTheme.ActionBar.Text</item> -->
+    </style>
+
+     <style name="myTheme.ActionBar.Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/white</item>
+      
+    </style>
+
+</resources>

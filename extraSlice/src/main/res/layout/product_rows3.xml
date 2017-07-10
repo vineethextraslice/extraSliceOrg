@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="wrap_content"
+    android:background="#F2F2F2"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingBottom="6dp"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="6dp" >
+
+    <RelativeLayout
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:background="@color/white" >
+
+        <ImageView
+            android:id="@+id/checkoutbutton"
+            android:layout_width="80dp"
+            android:layout_height="90dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:alpha="1.0"
+            android:padding="5dp"
+            android:src="@drawable/checkout" />
+
+        <LinearLayout
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/checkoutbutton"
+            android:layout_margin="3dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="2dp"
+            >
+
+            <TextView
+                android:id="@+id/checkoutbuttontext"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_weight="0.65"
+                android:gravity="left|center_vertical"
+                android:text="Cart"
+                android:textColor="@color/black"
+                android:textSize="12dp" />
+
+            <ImageView
+                android:id="@+id/addToCart"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+              
+                android:padding="1dp"
+                android:src="@drawable/addtocartb" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

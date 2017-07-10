@@ -1,0 +1,7 @@
+#Mon Jul 10 14:41:16 IST 2017
+base.0=/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_755c07061ca1eb29706968c360511b6f46fdd7c5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd92982197409659345cffaa571e5e3daeb1d075/classes.dex
+base.1=/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd92982197409659345cffaa571e5e3daeb1d075
+file.0=/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_755c07061ca1eb29706968c360511b6f46fdd7c5/classes.dex

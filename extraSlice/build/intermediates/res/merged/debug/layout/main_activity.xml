@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/frame_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/seperator"
+        android:background="@color/white" >
+    </FrameLayout>
+
+    <GridView
+        android:id="@+id/menuList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/seperator"
+        android:background="@color/theme_light_blue"
+        android:columnOrderPreserved="true"
+        android:columnWidth="64dp"
+        android:gravity="center"
+        android:listSelector="@color/theme_color_trnsp_22"
+        android:numColumns="auto_fit"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="15dp" >
+    </GridView>
+
+    <View
+        android:id="@+id/seperator"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+       
+        android:layout_above="@+id/menubar"
+        android:background="@color/theme_blue_color" >
+    </View>
+
+    <RelativeLayout
+        android:id="@+id/menubar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:padding="0dp" >
+
+        <ImageView
+            android:id="@+id/menu"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dp"
+            android:background="@color/white"
+            android:src="@drawable/ic_view_headline" />
+
+        <ImageButton
+            android:id="@+id/walknpay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:background="@color/white"
+            android:src="@drawable/extraslicelogo" />
+    </RelativeLayout>
+
+</RelativeLayout>

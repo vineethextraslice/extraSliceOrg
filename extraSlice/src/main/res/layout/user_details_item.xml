@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chat_lyt"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:id="@+id/selectLyt"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <CheckBox
+            android:id="@+id/select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_weight="0.4"
+        android:gravity="left|center_vertical"
+        android:singleLine="false"
+        android:paddingLeft="5dp"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/userRole"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_weight="0.25"
+        android:paddingLeft="5dp"
+        android:gravity="center"
+        android:singleLine="false"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_weight="0.25"
+        android:paddingLeft="5dp"
+        android:gravity="center"
+        android:singleLine="false"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+         />
+
+</LinearLayout>

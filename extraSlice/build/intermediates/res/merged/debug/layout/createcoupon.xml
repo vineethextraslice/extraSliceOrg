@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Create Coupon"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/blueBaground"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="19dp"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/editText0"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Enter Coupon Code"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText1"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Coupon type"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Select store"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Select by product"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText4"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="From date"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText5"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="To date"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText6"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Apply by"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText7"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Coupon price"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText8"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Usable price"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText9"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Minimum price"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText10"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Offer percentage"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText11"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Offer above price"
+                android:paddingLeft="5dp" />
+
+            <EditText
+                android:id="@+id/editText12"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bluerectangle"
+                android:ems="10"
+                android:hint="Offer above count"
+                android:paddingLeft="5dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
