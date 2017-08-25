@@ -390,6 +390,7 @@ public class MyReceipts extends Fragment {
 			if(tabHeight > (screenHeight-(250*density))  ){
 				tabHeight =(int) (screenHeight-(250*density));
 			}
+
 			RelativeLayout.LayoutParams lytParams = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT,
 					tabHeight);
 			listReceipts.setLayoutParams(lytParams);

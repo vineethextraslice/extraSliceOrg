@@ -299,7 +299,7 @@ public class StrpePaymentSetup {
 		try {
 			
 
-			int amoun = (int) (totalAmount * 100);
+			int amoun = (int) Math.round(totalAmount * 100);
 			
 
 			String sourceId = null;

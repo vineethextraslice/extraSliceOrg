@@ -4,6 +4,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -309,8 +311,14 @@ public class LoginActivity extends Activity {
 			} else if (pwd.length() == 0) {
 				errMsg = "Enter Password!";
 			} else if (userName.length() != 0 && pwd.length() != 0) {
-				if (!userName
-						.matches("^[\\w-_\\.+]*[\\w-_\\.]\\@([\\w]+\\.)+[\\w]+[\\w]$")) {
+				Pattern pattern = Pattern.compile(".+@.+\\.[a-z]+");
+
+				String email = userName;
+
+				Matcher matcher = pattern.matcher(email);
+
+				boolean matchFound = matcher.matches();
+				if (!matchFound) {
 					errMsg = "Invalid email!";
 				} else {
 					int osVersion = android.os.Build.VERSION.SDK_INT;

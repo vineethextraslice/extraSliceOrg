@@ -3,6 +3,8 @@ package com.app.extraslice;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.codehaus.jettison.json.JSONObject;
 
@@ -868,9 +870,18 @@ public class UserDetailsFragment extends Fragment {
     	if(userName.getText().toString().trim().isEmpty()){
     		return "Please enter email";
     	}
-    	if(!userName.getText().toString().matches("^[\\w-_\\.+]*[\\w-_\\.]\\@([\\w]+\\.)+[\\w]+[\\w]$")){
-    		return "Invalid email";
-    	}
+		 if (userName.getText().length() != 0 ) {
+			Pattern pattern = Pattern.compile(".+@.+\\.[a-z]+");
+
+			String email = userName.getText().toString();
+
+			Matcher matcher = pattern.matcher(email);
+
+			boolean matchFound = matcher.matches();
+			if (!matchFound) {
+				return "Invalid email!";
+			}
+		}
     	if(selectedPlans == null){
     		if(password.getText().toString().trim().isEmpty()){
         		return "Please enter password";

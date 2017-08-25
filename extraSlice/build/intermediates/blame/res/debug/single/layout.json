@@ -72,12 +72,12 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/old_current_conf_room_reservations.xml"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/createcoupon.xml",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/createcoupon.xml"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/product.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/product.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/createcoupon.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/createcoupon.xml"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/active_products.xml",
