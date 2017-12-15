@@ -1,7 +1,5 @@
 package com.extraslice.walknpay.model;
 
-import java.io.IOException;
-
 import org.codehaus.jackson.JsonGenerationException;
 import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
@@ -10,6 +8,8 @@ import org.codehaus.jackson.map.ObjectMapper;
 import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 import org.codehaus.jettison.json.JSONTokener;
+
+import java.io.IOException;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class SupportOfficerModel {

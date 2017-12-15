@@ -1,7 +1,6 @@
 package com.app.extraslice.model;
 
-import java.io.IOException;
-import java.util.List;
+import com.app.extraslice.utils.CustomException;
 
 import org.codehaus.jackson.JsonGenerationException;
 import org.codehaus.jackson.JsonParseException;
@@ -14,7 +13,8 @@ import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 import org.codehaus.jettison.json.JSONTokener;
 
-import com.app.extraslice.utils.CustomException;
+import java.io.IOException;
+import java.util.List;
 
 
 

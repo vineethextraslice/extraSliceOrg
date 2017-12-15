@@ -1,17 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Collections;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
@@ -26,7 +14,6 @@ import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.View.OnFocusChangeListener;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -39,16 +26,26 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.app.extraslice.R;
 import com.app.extraslice.adapter.CustomAdapter;
-import com.app.extraslice.model.SmartSpaceModel;
 import com.extraslice.walknpay.adapter.WalletReceiptAdapter;
 import com.extraslice.walknpay.bl.TransactionBO;
 import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.TransactionModel;
+
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Collections;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class MyReceipts extends Fragment {
 	ListView listReceipts;

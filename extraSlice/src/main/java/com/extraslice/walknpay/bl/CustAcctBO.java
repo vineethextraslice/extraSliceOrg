@@ -1,10 +1,5 @@
 package com.extraslice.walknpay.bl;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 import android.os.AsyncTask;
 
@@ -15,6 +10,11 @@ import com.stripe.model.Card;
 import com.stripe.model.Charge;
 import com.stripe.model.Customer;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class CustAcctBO {
 

@@ -16,13 +16,8 @@
 
 package jim.h.common.android.lib.zxing.camera;
 
-import java.io.IOException;
-
-import jim.h.common.android.lib.zxing.CaptureActivity;
-import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
 import android.annotation.SuppressLint;
 import android.content.Context;
-import android.content.res.Configuration;
 import android.graphics.PixelFormat;
 import android.graphics.Point;
 import android.graphics.Rect;
@@ -31,6 +26,10 @@ import android.os.Build;
 import android.os.Handler;
 import android.util.Log;
 import android.view.SurfaceHolder;
+
+import java.io.IOException;
+
+import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
 
 /**
  * This object wraps the Camera service object and expects to be the only one talking to it. The

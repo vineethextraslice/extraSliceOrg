@@ -1,17 +1,5 @@
 package com.extraslice.walknpay.bl;
 
-import io.card.payment.CardIOActivity;
-import io.card.payment.CardType;
-import io.card.payment.CreditCard;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.ActionBar;
 import android.app.Activity;
 import android.app.Dialog;
@@ -19,8 +7,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -40,7 +26,6 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 import com.app.extraslice.R;
-import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.ui.ConnectionDetector;
 import com.extraslice.walknpay.ui.MenuActivity;
 import com.extraslice.walknpay.ui.transaction.StrpePaymentGateway;
@@ -48,6 +33,15 @@ import com.stripe.model.Card;
 import com.stripe.model.Charge;
 import com.stripe.model.Customer;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import io.card.payment.CardIOActivity;
+import io.card.payment.CardType;
+import io.card.payment.CreditCard;
 
 public class StrpePaymentSetup {
 	private static final int REQUEST_SCAN = 100;

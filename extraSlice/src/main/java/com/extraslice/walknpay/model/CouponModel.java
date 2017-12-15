@@ -1,9 +1,8 @@
 package com.extraslice.walknpay.model;
 
-import java.io.IOException;
-import java.sql.Timestamp;
-import java.util.HashMap;
-import java.util.Map;
+import com.extraslice.walknpay.bl.CustomException;
+import com.extraslice.walknpay.ui.CartFragment;
+import com.extraslice.walknpay.ui.PaymentOptionScreen;
 
 import org.codehaus.jackson.JsonGenerationException;
 import org.codehaus.jackson.JsonParseException;
@@ -15,9 +14,10 @@ import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 import org.codehaus.jettison.json.JSONTokener;
 
-import com.extraslice.walknpay.bl.CustomException;
-import com.extraslice.walknpay.ui.CartFragment;
-import com.extraslice.walknpay.ui.PaymentOptionScreen;
+import java.io.IOException;
+import java.sql.Timestamp;
+import java.util.HashMap;
+import java.util.Map;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class CouponModel  implements Comparable<CouponModel>{

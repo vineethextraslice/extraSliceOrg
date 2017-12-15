@@ -1,11 +1,5 @@
 package com.app.extraslice.dao;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 import android.util.Log;
 
@@ -20,12 +14,31 @@ import com.stripe.model.Charge;
 import com.stripe.model.Customer;
 import com.stripe.model.CustomerSubscriptionCollection;
 
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class UserDAO {
 	Context mContext;
 	public UserDAO(Context mContext){
 		this.mContext = mContext;
 	}
-	
+
+
+	public JSONObject TickectsDashboard(String requeststring) throws CustomException {
+		String urlString = Utilities.mainUrl + "/user/callZendesk";
+		JSONObject rootObject = null;
+
+		try {
+
+			rootObject = WSConnnection.getResult(urlString, requeststring,mContext);
+		} catch (Exception e) {
+			throw new CustomException(e.getLocalizedMessage());
+		}
+		return rootObject;
+	}
 	public JSONObject checkUserName(String emailId) throws CustomException {
 		String urlString = Utilities.mainUrl + "/user/checkUserName";
 		JSONObject rootObject = null;
@@ -104,6 +117,7 @@ public class UserDAO {
 		}catch(Exception e){
 			throw new CustomException(e.getLocalizedMessage());
 		}
+		Log.e("testing",""+model);
 		JSONObject rootObject = null;
 		try {
 			rootObject = WSConnnection.getResult(urlString,requestObj.toString(),mContext);

@@ -1,7 +1,10 @@
 package com.extraslice.walknpay.dao;
 
-import java.io.IOException;
-import java.util.List;
+import android.content.Context;
+
+import com.extraslice.walknpay.bl.CustomException;
+import com.extraslice.walknpay.bl.Utilities;
+import com.extraslice.walknpay.model.PurchasedProductModel;
 
 import org.codehaus.jackson.JsonGenerationException;
 import org.codehaus.jackson.map.JsonMappingException;
@@ -9,16 +12,8 @@ import org.codehaus.jettison.json.JSONArray;
 import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 
-import android.content.Context;
-
-import com.extraslice.walknpay.adapter.CartListAdapter;
-import com.extraslice.walknpay.bl.CustomException;
-import com.extraslice.walknpay.bl.RunJSon;
-import com.extraslice.walknpay.bl.Utilities;
-import com.extraslice.walknpay.model.CouponModel;
-import com.extraslice.walknpay.model.CustAcctModel;
-import com.extraslice.walknpay.model.PurchasedProductModel;
-import com.extraslice.walknpay.ui.CartFragment;
+import java.io.IOException;
+import java.util.List;
 
 public class CouponDAO {
 	//applyDefaultCoupons applyCoupon assignCoupon updateCoupon addCoupon

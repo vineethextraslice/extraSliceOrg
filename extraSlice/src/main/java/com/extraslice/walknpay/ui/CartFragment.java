@@ -1,10 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-
-import jim.h.common.android.lib.zxing.integrator.IntentIntegrator;
-import jim.h.common.android.lib.zxing.integrator.IntentResult;
 import android.app.ActionBar;
 import android.app.ActionBar.LayoutParams;
 import android.app.Activity;
@@ -46,6 +41,12 @@ import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.ProductModel;
 import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.model.StoreModel;
+
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+
+import jim.h.common.android.lib.zxing.integrator.IntentIntegrator;
+import jim.h.common.android.lib.zxing.integrator.IntentResult;
 
 public class CartFragment extends Fragment {
 	ActionBar mactionBar;

@@ -1,8 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.util.List;
-import java.util.Map;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,6 +9,9 @@ import android.widget.TextView;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.model.ProductModel;
+
+import java.util.List;
+import java.util.Map;
 
 public class ReceiptItemAdapter extends ArrayAdapter<Map<String,String>> {
 	Context localcontext;

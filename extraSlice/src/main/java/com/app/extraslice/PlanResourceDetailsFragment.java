@@ -1,14 +1,9 @@
 package com.app.extraslice;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
-import android.util.AttributeSet;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -34,6 +29,10 @@ import com.app.extraslice.model.PlanOfferModel;
 import com.app.extraslice.model.ResourceTypeModel;
 import com.app.extraslice.utils.MyEditText;
 import com.app.extraslice.utils.Utilities;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 
 public class PlanResourceDetailsFragment extends Fragment {

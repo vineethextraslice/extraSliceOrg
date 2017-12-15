@@ -1,9 +1,5 @@
 package com.app.extraslice.adapter;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-
 import android.content.Context;
 import android.graphics.Color;
 import android.view.Gravity;
@@ -15,7 +11,10 @@ import android.widget.Filter;
 import android.widget.TextView;
 
 import com.app.extraslice.R;
-import com.stripe.model.Customer;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 
 

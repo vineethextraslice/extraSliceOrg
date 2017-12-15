@@ -1,10 +1,11 @@
 package jim.h.common.android.lib.zxing.integrator;
 
+import android.app.Activity;
+import android.content.Intent;
+
 import jim.h.common.android.lib.zxing.CaptureActivity;
 import jim.h.common.android.lib.zxing.Intents;
 import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
-import android.app.Activity;
-import android.content.Intent;
 
 /**
  * @author Jim.H

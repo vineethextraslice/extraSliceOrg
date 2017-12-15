@@ -1,8 +1,8 @@
 package com.extraslice.walknpay.model;
 
-import java.util.ArrayList;
-
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
+
+import java.util.ArrayList;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class WalletReceiptModel {

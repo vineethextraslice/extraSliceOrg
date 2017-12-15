@@ -8,6 +8,10 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/storefragment.xml"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/activity_support_form.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/activity_support_form.xml"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/reservation_popup.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/reservation_popup.xml"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/custom_dialog.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/fragment_ticket_dashboard.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/fragment_ticket_dashboard.xml"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/time_row.xml",
@@ -166,6 +174,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/product_to_store_rows.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/product_to_store_rows.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/ticket_listviewrow.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/layout/ticket_listviewrow.xml"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/layout/web_view.xml",

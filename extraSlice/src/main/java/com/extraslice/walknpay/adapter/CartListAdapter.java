@@ -1,8 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.os.AsyncTask;
@@ -27,6 +24,9 @@ import com.extraslice.walknpay.model.ProductModel;
 import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.ui.CartFragment;
 import com.extraslice.walknpay.ui.MenuActivity;
+
+import java.text.DecimalFormat;
+import java.util.ArrayList;
 
 public class CartListAdapter extends ArrayAdapter<PurchasedProductModel>{
 	static Context localcontext;

@@ -1,8 +1,5 @@
 package com.app.extraslice.fragments;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -27,6 +24,9 @@ import com.extraslice.walknpay.bl.StoreBO;
 import com.extraslice.walknpay.bl.UserBO;
 import com.extraslice.walknpay.model.UserModel;
 import com.extraslice.walknpay.ui.WalletFragment;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class HomeFragment extends Fragment {
 	
@@ -87,7 +87,7 @@ public class HomeFragment extends Fragment {
 			public void onClick(View v) {
 				MenuActivity.menuShowing = true;
 				MenuActivity.showHideMenu();
-				fragment = new SupportFragment();
+				fragment = new TicketDashboardFragment();
 				Utilities.loadFragment(getFragmentManager(), fragment, R.id.frame_container, false);
 					
 				

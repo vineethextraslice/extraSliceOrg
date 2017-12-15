@@ -16,36 +16,33 @@
 
 package jim.h.common.android.lib.zxing;
 
-import java.io.IOException;
-import java.util.Vector;
-
-import jim.h.common.android.lib.zxing.camera.CameraManager;
-import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
 import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Paint;
-import android.graphics.Point;
 import android.graphics.Rect;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.text.ClipboardManager;
 import android.util.Log;
-import android.view.Display;
 import android.view.KeyEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.TextView;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
 import com.google.zxing.ResultPoint;
+
+import java.io.IOException;
+import java.util.Vector;
+
+import jim.h.common.android.lib.zxing.camera.CameraManager;
+import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
 
 /**
  * The barcode reader activity itself. This is loosely based on the

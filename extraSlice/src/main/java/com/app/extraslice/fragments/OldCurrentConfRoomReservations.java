@@ -1,31 +1,15 @@
 package com.app.extraslice.fragments;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Locale;
-import java.util.Map;
-import java.util.TimeZone;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.app.DatePickerDialog;
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.TimePickerDialog;
 import android.content.Context;
-import android.content.Intent;
 import android.content.res.Resources;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Display;
 import android.view.GestureDetector;
 import android.view.GestureDetector.SimpleOnGestureListener;
@@ -60,12 +44,9 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
 
-import com.app.extraslice.LoginActivity;
 import com.app.extraslice.R;
 import com.app.extraslice.adapter.CustomAdapter;
 import com.app.extraslice.bo.SmartspaceBO;
-import com.app.extraslice.fragments.ReserveAConfRoom.CustomPaymentGatewayImpl;
-import com.app.extraslice.fragments.ReserveAConfRoom.RunInBackground;
 import com.app.extraslice.model.AdminAccountModel;
 import com.app.extraslice.model.Organization;
 import com.app.extraslice.model.ReservationModel;
@@ -76,6 +57,19 @@ import com.app.extraslice.utils.CustomPaymentGateway;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
+import java.util.Map;
+import java.util.TimeZone;
 
  public class OldCurrentConfRoomReservations extends Fragment {
 	private final String LOAD_RESERVATIONS = "LOAD_RESERVATIONS";

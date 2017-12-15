@@ -1,12 +1,11 @@
 package com.extraslice.walknpay.dao;
 
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
-import com.extraslice.walknpay.bl.RunJSon;
 import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.model.CustAcctModel;
+
+import org.codehaus.jettison.json.JSONObject;
 
 public class CustAcctDAO {
 	public JSONObject getUserAccount(Context mContext, int userId,String strpAcct) {

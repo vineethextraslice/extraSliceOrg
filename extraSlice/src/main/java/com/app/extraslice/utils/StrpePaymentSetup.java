@@ -1,24 +1,9 @@
 package com.app.extraslice.utils;
 
-import io.card.payment.CardIOActivity;
-import io.card.payment.CardType;
-import io.card.payment.CreditCard;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.ActionBar;
-import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.Color;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
@@ -40,6 +25,13 @@ import com.app.extraslice.adapter.CustomAdapter;
 import com.app.extraslice.bo.CustAcctBO;
 import com.stripe.model.Card;
 import com.stripe.model.Customer;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 //import com.app.extraslice.ui.ConnectionDetector;
 
 public class StrpePaymentSetup {

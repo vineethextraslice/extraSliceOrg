@@ -1,12 +1,5 @@
 package com.app.extraslice;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
@@ -47,6 +40,13 @@ import com.app.extraslice.model.UserModel;
 import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class LoginActivity extends Activity {
 	ImageView img1, img2;
@@ -282,6 +282,8 @@ public class LoginActivity extends Activity {
 		return super.onOptionsItemSelected(item);
 	}
 
+
+
 	class RunInBackground extends AsyncTask<Void, Void, Void> {
 		String errMsg = null;
 		String userName;
@@ -334,6 +336,10 @@ public class LoginActivity extends Activity {
 
 			return null;
 		}
+
+
+
+
 
 		@Override
 		protected void onPostExecute(Void result) {
@@ -660,4 +666,5 @@ public class LoginActivity extends Activity {
 			// ProgressClass.finishProgress();
 		}
 	}
+
 }

@@ -16,9 +16,7 @@
 
 package jim.h.common.android.lib.zxing.camera;
 
-import android.app.Activity;
 import android.graphics.Bitmap;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.google.zxing.LuminanceSource;

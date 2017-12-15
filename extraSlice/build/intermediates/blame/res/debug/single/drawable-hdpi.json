@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room_002.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room_002.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/headset.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/headset.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room_002.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room_002.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/goforward.png",
@@ -48,24 +48,24 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_disabled_focused_holo_dark.9.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/error.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/error.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/paymentblack.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/paymentblack.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/error.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/error.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book6.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book6.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/delete1231.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/delete1231.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/credit_small.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/credit_small.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/delete1231.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/delete1231.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_focused_holo_dark.9.png",
@@ -76,12 +76,12 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/store_w.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/plus_test_dis.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/plus_test_dis.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/login.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/plus_test_dis.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/plus_test_dis.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logout_black.png",
@@ -476,16 +476,16 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/joinslice.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_new_empty.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkbox_new_empty.png"
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpay1.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpay1.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/camera.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/camera.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpay1.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/walknpay1.png"
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_new_empty.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkbox_new_empty.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ccare_head1.png",

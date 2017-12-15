@@ -1,8 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.text.SimpleDateFormat;
-import java.util.List;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.text.SpannableString;
@@ -22,6 +19,9 @@ import com.extraslice.walknpay.model.CouponModel;
 import com.extraslice.walknpay.ui.MenuActivity;
 import com.extraslice.walknpay.ui.MyCards;
 import com.extraslice.walknpay.ui.PaymentOptionScreen;
+
+import java.text.SimpleDateFormat;
+import java.util.List;
 
 
 public class RechargeCouponAdapter extends ArrayAdapter<CouponModel> {

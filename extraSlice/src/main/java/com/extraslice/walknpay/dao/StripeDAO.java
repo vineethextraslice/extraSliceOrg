@@ -1,11 +1,5 @@
 package com.extraslice.walknpay.dao;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.concurrent.ExecutionException;
-
 import android.content.Context;
 import android.os.AsyncTask;
 
@@ -21,6 +15,12 @@ import com.stripe.model.Customer;
 import com.stripe.model.ExternalAccount;
 import com.stripe.model.ExternalAccountCollection;
 import com.stripe.model.Token;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.ExecutionException;
 
 
 public class StripeDAO {

@@ -1,13 +1,5 @@
 package com.app.extraslice.fragments;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -42,6 +34,14 @@ import com.app.extraslice.model.UserOrgModel;
 import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
+
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class ProfileFragment extends Fragment {
 	

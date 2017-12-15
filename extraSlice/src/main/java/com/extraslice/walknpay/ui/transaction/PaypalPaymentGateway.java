@@ -1,19 +1,11 @@
 package com.extraslice.walknpay.ui.transaction;
-import java.math.BigDecimal;
-import java.util.concurrent.ExecutionException;
-
-import org.codehaus.jettison.json.JSONObject;
 
 import android.app.Activity;
-import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
-import android.view.View;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.bl.Utilities;
@@ -26,6 +18,11 @@ import com.paypal.android.sdk.payments.PayPalConfiguration;
 import com.paypal.android.sdk.payments.PayPalPayment;
 import com.paypal.android.sdk.payments.PayPalService;
 import com.paypal.android.sdk.payments.PaymentActivity;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.math.BigDecimal;
+import java.util.concurrent.ExecutionException;
 public class PaypalPaymentGateway  {
 
 	boolean status = false;

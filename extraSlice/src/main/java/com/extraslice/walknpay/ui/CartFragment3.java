@@ -1,8 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.ActionBar.LayoutParams;
 import android.app.Dialog;
 import android.app.Fragment;
@@ -13,17 +10,14 @@ import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.app.extraslice.R;
-import com.extraslice.walknpay.adapter.CartListAdapter2;
 import com.extraslice.walknpay.adapter.CartListAdapter3;
 import com.extraslice.walknpay.bl.StoreBO;
 import com.extraslice.walknpay.bl.Utilities;
@@ -31,7 +25,9 @@ import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.ProductModel;
 import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.model.StoreModel;
-import com.paypal.android.sdk.E;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class CartFragment3 extends Fragment {
 

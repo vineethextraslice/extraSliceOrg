@@ -1,10 +1,5 @@
 package com.extraslice.walknpay.ui.transaction;
 
-import java.util.HashSet;
-import java.util.concurrent.ExecutionException;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.Fragment;
@@ -12,7 +7,6 @@ import android.app.FragmentManager;
 import android.content.Context;
 import android.os.AsyncTask;
 import android.view.View;
-import android.view.Window;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.CheckBox;
@@ -32,6 +26,11 @@ import com.extraslice.walknpay.ui.MyCards;
 import com.extraslice.walknpay.ui.PaymentOptionScreen;
 import com.extraslice.walknpay.ui.PaymentStatusFragment;
 import com.stripe.model.Customer;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.HashSet;
+import java.util.concurrent.ExecutionException;
 
 public class StrpePaymentGateway {
 

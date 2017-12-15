@@ -1,21 +1,5 @@
 package com.app.extraslice.fragments;
 
-import java.io.InputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Locale;
-import java.util.Map;
-import java.util.TimeZone;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.annotation.SuppressLint;
 import android.app.DatePickerDialog;
 import android.app.Dialog;
@@ -28,8 +12,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.Display;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -62,25 +44,32 @@ import android.widget.Toast;
 
 import com.app.extraslice.R;
 import com.app.extraslice.adapter.CustomAdapter;
-import com.app.extraslice.bo.CustAcctBO;
 import com.app.extraslice.bo.SmartspaceBO;
 import com.app.extraslice.model.AdminAccountModel;
 import com.app.extraslice.model.Organization;
-import com.app.extraslice.model.PaymentStatusObject;
 import com.app.extraslice.model.ReservationModel;
 import com.app.extraslice.model.ResourceModel;
-import com.app.extraslice.model.ResourceTypeModel;
 import com.app.extraslice.model.SmartSpaceModel;
-import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.CustomPaymentGateway;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
-import com.stripe.model.Charge;
-import com.stripe.model.Customer;
-import com.stripe.model.CustomerSubscriptionCollection;
-import com.stripe.model.Plan;
-import com.stripe.model.Subscription;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
+import java.util.Map;
+import java.util.TimeZone;
 
 
 

@@ -1,10 +1,5 @@
 package com.app.extraslice;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 import android.app.ActionBar;
 import android.app.Activity;
 import android.app.Dialog;
@@ -14,7 +9,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
-import android.graphics.drawable.ColorDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
@@ -31,9 +25,6 @@ import android.widget.FrameLayout;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
-import android.widget.LinearLayout.LayoutParams;
-import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -43,7 +34,7 @@ import com.app.extraslice.fragments.HomeFragment;
 import com.app.extraslice.fragments.MyReservations;
 import com.app.extraslice.fragments.ProfileFragment;
 import com.app.extraslice.fragments.ReserveAConfRoom;
-import com.app.extraslice.fragments.SupportFragment;
+import com.app.extraslice.fragments.TicketDashboardFragment;
 import com.app.extraslice.model.Organization;
 import com.app.extraslice.utils.Utilities;
 import com.extraslice.walknpay.bl.StoreBO;
@@ -54,6 +45,11 @@ import com.extraslice.walknpay.model.UserModel;
 import com.extraslice.walknpay.ui.CartFragment;
 import com.extraslice.walknpay.ui.WalletFragment;
 import com.extraslice.walknpay.ui.transaction.PaypalPaymentGateway;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class MenuActivity extends Activity {
 	
@@ -294,7 +290,7 @@ public class MenuActivity extends Activity {
 				break;
 				
 			case 5:
-				fragment = new SupportFragment();
+				fragment = new TicketDashboardFragment();
 				break;
 			case 6:
 				new LoadData(LOAD_WALKNPAY).execute();
@@ -324,7 +320,7 @@ public class MenuActivity extends Activity {
 				fragment = new WalletFragment(0);
 				break;
 			case 3:
-				fragment = new SupportFragment();
+				fragment = new TicketDashboardFragment();
 				break;
 			case 4:
 				fragment = new AboutFragment();

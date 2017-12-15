@@ -1,19 +1,17 @@
 package com.extraslice.walknpay.ui.transaction;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import android.app.Activity;
 import android.content.Context;
 import android.os.AsyncTask;
 
 import com.extraslice.walknpay.bl.CouponBO;
 import com.extraslice.walknpay.bl.CustomException;
 import com.extraslice.walknpay.bl.TransactionBO;
-import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.CouponModel;
 import com.extraslice.walknpay.model.TransactionModel;
 import com.extraslice.walknpay.ui.PaymentOptionScreen;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class AddTransaction   extends AsyncTask<Void, Void,TransactionModel> {
 	List<CouponModel> selectedCouponList = new ArrayList<CouponModel>();

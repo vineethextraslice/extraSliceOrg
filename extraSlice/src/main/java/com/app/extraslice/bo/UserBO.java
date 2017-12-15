@@ -1,13 +1,7 @@
 package com.app.extraslice.bo;
 
-import java.util.List;
-import java.util.Random;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
-import com.app.extraslice.connection.WSConnnection;
 import com.app.extraslice.dao.UserDAO;
 import com.app.extraslice.model.PlanOfferModel;
 import com.app.extraslice.model.ResourceTypeModel;
@@ -17,6 +11,11 @@ import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.Utilities;
 import com.stripe.model.Charge;
 import com.stripe.model.Customer;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.List;
+import java.util.Random;
 
 public class UserBO {
 	Context mContext;

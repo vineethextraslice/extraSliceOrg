@@ -1,7 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.util.ArrayList;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,6 +9,8 @@ import android.widget.TextView;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.model.ReceiptItemModel;
+
+import java.util.ArrayList;
 
 public class ReceiptWalletAdapter extends ArrayAdapter<ReceiptItemModel> {
 	int layout;

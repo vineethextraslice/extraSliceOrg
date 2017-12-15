@@ -1,16 +1,5 @@
 package com.app.extraslice.utils;
 
-import io.card.payment.CardIOActivity;
-import io.card.payment.CardType;
-import io.card.payment.CreditCard;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
@@ -36,6 +25,17 @@ import com.stripe.Stripe;
 import com.stripe.model.Charge;
 import com.stripe.model.Customer;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import io.card.payment.CardIOActivity;
+import io.card.payment.CardType;
+import io.card.payment.CreditCard;
 
 public abstract class CustomPaymentGateway {
 

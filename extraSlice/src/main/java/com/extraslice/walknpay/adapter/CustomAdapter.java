@@ -1,8 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.util.List;
-import java.util.Map;
-
 import android.content.Context;
 import android.graphics.Color;
 import android.view.LayoutInflater;
@@ -12,6 +9,9 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 import com.app.extraslice.R;
+
+import java.util.List;
+import java.util.Map;
 
 public class CustomAdapter extends ArrayAdapter<Map<String, Integer>> {
 

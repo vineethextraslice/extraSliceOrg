@@ -1,25 +1,24 @@
 package com.app.extraslice.connection;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.net.HttpURLConnection;
-import java.net.SocketException;
-import java.net.SocketTimeoutException;
-import java.net.URL;
-
-import org.codehaus.jettison.json.JSONException;
-import org.codehaus.jettison.json.JSONObject;
-import org.json.simple.parser.JSONParser;
-
-import com.app.extraslice.utils.Utilities;
-
 import android.accounts.NetworkErrorException;
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.util.Log;
+
+import com.app.extraslice.utils.Utilities;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
+import org.json.simple.parser.JSONParser;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.net.HttpURLConnection;
+import java.net.SocketTimeoutException;
+import java.net.URL;
 
 
 
@@ -47,7 +46,8 @@ public class WSConnnection {
 				HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 				conn.setRequestMethod("POST");
 				conn.setRequestProperty("Content-Type", "application/json");
-				conn.setRequestProperty("Content-Length", Integer.toString(jsonString.length()));
+				//Log.e("contentlength", Integer.toString(jsonString.length()));
+				//conn.setRequestProperty("Content-Length", Integer.toString(jsonString.length()));
 				conn.setReadTimeout(15000);
 				conn.setConnectTimeout(3000);
 				conn.setDoInput(true);

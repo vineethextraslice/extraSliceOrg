@@ -1,7 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.util.ArrayList;
-
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -13,6 +11,8 @@ import android.widget.TextView;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.model.NavDrawerItem;
+
+import java.util.ArrayList;
 
 public class NavDrawerListAdapter extends BaseAdapter {
 

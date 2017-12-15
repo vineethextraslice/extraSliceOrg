@@ -1,10 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.text.DecimalFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.List;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,6 +12,11 @@ import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.model.CouponModel;
 import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.model.TransactionModel;
+
+import java.text.DecimalFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.List;
 
 public class WalletReceiptAdapter extends ArrayAdapter<TransactionModel> {
 

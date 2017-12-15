@@ -13,7 +13,7 @@
     <string name="addCardToNewSubs"><![CDATA[You donot have a payment set up for membership subscription. Do you want to set up subscription using this card?]]></string>
     <string name="changeSubs"><![CDATA[Do you want to use this card for all subscriptions? ]]></string>
     <string name="changeDefCard"><![CDATA[Card used for XXX subscription. Do you want to change?<b><u><font color=#1F5269>Change</font></u></b> ]]></string>
-    
+
     <string name="cancelSubscription"><![CDATA[<b><u><font color=#1F5269>Unsubscribe</font></u></b>]]></string>
     <string name="viewPlan"><![CDATA[<b><u><font color=#1F5269>View</font></u></b>]]></string>
     <string name="detailsUrl"><![CDATA[<u><font color=@color/white>View Cart</font></u>]]></string>
@@ -42,8 +42,8 @@
         <item>@drawable/about_w</item>
         <item>@drawable/logout_w</item>
         <item>@drawable/joinslice</item>
-         <item>@drawable/wallet_w</item>
-         <item>@drawable/profile_w</item>
+        <item>@drawable/wallet_w</item>
+        <item>@drawable/profile_w</item>
     </array>
 
     <string name="action_settings">Change store name</string>
@@ -189,5 +189,8 @@ information gathering and dissemination practices</string>
 changes, please review this policy periodically.</string>
     <string name="header2">Personal Data collected for the following purposes and using the
 following services:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

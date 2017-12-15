@@ -1,13 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONException;
-
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
@@ -33,6 +25,14 @@ import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.CouponModel;
 import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.model.TransactionModel;
+
+import org.codehaus.jettison.json.JSONException;
+
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class ReceiptFragment extends Fragment {
 

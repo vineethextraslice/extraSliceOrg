@@ -1,11 +1,5 @@
 package com.extraslice.walknpay.dao;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONException;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.Fragment;
@@ -26,6 +20,12 @@ import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.model.TransactionModel;
 import com.extraslice.walknpay.ui.CartFragment;
 import com.extraslice.walknpay.ui.PaymentOptionScreen;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class TransactionDAO {
 	@SuppressWarnings("unchecked")

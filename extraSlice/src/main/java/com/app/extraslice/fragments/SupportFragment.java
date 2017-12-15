@@ -2,19 +2,13 @@ package com.app.extraslice.fragments;
 
 import android.app.Fragment;
 import android.content.Context;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
-import android.widget.TextView;
 
 import com.app.extraslice.R;
-import com.app.extraslice.bo.SmartspaceBO;
-import com.app.extraslice.fragments.AboutFragment.RunInBackground;
-import com.app.extraslice.utils.CustomException;
-import com.app.extraslice.utils.ProgressClass;
 
 public class SupportFragment extends Fragment {
 	Context mContext;

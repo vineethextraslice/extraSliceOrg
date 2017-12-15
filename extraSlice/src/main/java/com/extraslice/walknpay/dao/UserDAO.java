@@ -1,14 +1,12 @@
 package com.extraslice.walknpay.dao;
 
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
 import com.extraslice.walknpay.bl.CustomException;
-import com.extraslice.walknpay.bl.RunJSon;
 import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.model.UserModel;
-import com.google.gson.JsonObject;
+
+import org.codehaus.jettison.json.JSONObject;
 
 public class UserDAO {
 	

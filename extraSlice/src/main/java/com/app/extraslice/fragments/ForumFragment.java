@@ -1,11 +1,8 @@
 package com.app.extraslice.fragments;
 
-import org.apache.http.util.EncodingUtils;
-
 import android.app.Fragment;
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,10 +12,11 @@ import android.webkit.WebViewClient;
 import android.widget.RelativeLayout;
 
 import com.app.extraslice.R;
-import com.app.extraslice.bo.UserBO;
 import com.app.extraslice.model.UserModel;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
+
+import org.apache.http.util.EncodingUtils;
 
 public class ForumFragment extends Fragment {
 	Context mContext;

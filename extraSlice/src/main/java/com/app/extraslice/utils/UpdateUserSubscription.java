@@ -2,7 +2,6 @@ package com.app.extraslice.utils;
 
 import android.content.Context;
 import android.os.AsyncTask;
-import android.widget.Chronometer;
 
 import com.app.extraslice.bo.SmartspaceBO;
 import com.app.extraslice.bo.UserBO;

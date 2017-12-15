@@ -11,6 +11,7 @@ org/codehaus/jackson/map/deser/std/PrimitiveArrayDeserializers$IntDeser.class
 android/support/v4/view/MenuCompat.class
 android/support/v4/media/session/MediaControllerCompat.class
 com/google/gson/JsonNull.class
+org/joda/time/Duration.class
 android/support/v4/net/ConnectivityManagerCompatApi24.class
 org/codehaus/jackson/map/deser/BeanDeserializer.class
 android/support/annotation/IdRes.class
@@ -18,6 +19,7 @@ android/support/v4/view/ViewPager$4.class
 android/support/annotation/ColorInt.class
 android/support/annotation/RawRes.class
 com/stripe/model/RecipientCardCollection.class
+org/joda/time/base/AbstractPeriod.class
 android/support/v4/widget/MaterialProgressDrawable$3.class
 android/support/v4/net/ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl.class
 org/codehaus/jackson/annotate/JsonWriteNullProperties.class
@@ -65,6 +67,7 @@ android/support/v4/util/ArrayMap.class
 android/support/v4/widget/MaterialProgressDrawable$ProgressDrawableSize.class
 org/codehaus/jackson/map/ser/StdSerializers$CalendarSerializer.class
 android/support/v4/view/PointerIconCompat.class
+org/joda/time/MutableDateTime.class
 android/support/v4/view/WindowInsetsCompat.class
 org/codehaus/jackson/map/ser/StdSerializers$SerializableSerializer.class
 android/support/annotation/InterpolatorRes.class
@@ -94,6 +97,7 @@ org/codehaus/jackson/map/deser/UntypedObjectDeserializer.class
 android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class
 org/codehaus/jackson/map/Deserializers$None.class
 org/codehaus/jackson/map/deser/SettableAnyProperty.class
+org/joda/time/Hours.class
 org/codehaus/jackson/map/introspect/AnnotatedClass.class
 org/codehaus/jackson/map/SerializationConfig$Feature.class
 android/support/v4/view/ViewCompatICS.class
@@ -132,6 +136,7 @@ android/support/v4/text/util/LinkifyCompat$1.class
 org/codehaus/jackson/map/ser/SerializerBase.class
 android/support/annotation/Keep.class
 android/support/v4/media/session/PlaybackStateCompat$State.class
+org/joda/time/format/DateTimeParserBucket.class
 android/support/annotation/BinderThread.class
 android/support/v4/view/ViewCompat$MarshmallowViewCompatImpl.class
 com/extraslice/walknpay/model/UserModel.class
@@ -194,10 +199,13 @@ org/codehaus/jackson/map/annotate/JsonValueInstantiator.class
 org/codehaus/jackson/map/jsontype/impl/AsArrayTypeDeserializer.class
 org/codehaus/jackson/map/ser/std/ToStringSerializer.class
 org/codehaus/jackson/map/ser/std/StdArraySerializers$DoubleArraySerializer.class
+org/joda/time/DateMidnight.class
 com/stripe/model/Charge.class
 org/codehaus/jackson/map/deser/ThrowableDeserializer.class
+org/joda/time/base/AbstractDuration.class
 android/support/v4/view/ViewCompatJellybeanMr2.class
 org/codehaus/jackson/map/deser/std/StdDeserializer$CharacterDeserializer.class
+org/joda/time/Minutes.class
 org/codehaus/jackson/jaxrs/JacksonJaxbJsonProvider.class
 android/support/v4/media/session/MediaSessionCompat$Callback.class
 org/codehaus/jackson/map/ser/std/IndexedStringListSerializer.class
@@ -205,6 +213,7 @@ android/support/v4/media/MediaBrowserCompat$ItemCallback.class
 android/support/v4/widget/SearchViewCompat$OnCloseListenerCompat.class
 android/support/annotation/ColorRes.class
 com/stripe/model/ChargeRefundCollection.class
+org/joda/time/Seconds.class
 android/support/v4/media/MediaBrowserCompat$MediaItem$Flags.class
 android/support/v4/media/MediaBrowserCompatApi21.class
 org/codehaus/jackson/map/introspect/BasicClassIntrospector$SetterAndGetterMethodFilter.class
@@ -235,6 +244,7 @@ android/support/v4/media/MediaBrowserCompat$MediaBrowserServiceCallbackImpl.clas
 android/support/annotation/DrawableRes.class
 org/codehaus/jackson/map/annotate/JacksonStdImpl.class
 android/support/v4/media/MediaMetadataCompat$BitmapKey.class
+org/joda/time/YearMonth.class
 android/support/v4/util/MapCollections.class
 android/support/multidex/ZipUtil$CentralDirectory.class
 android/support/v4/app/ServiceCompat.class
@@ -243,6 +253,7 @@ android/support/v4/app/AppOpsManagerCompat.class
 android/support/annotation/FloatRange.class
 android/support/v4/view/ViewPager$MyAccessibilityDelegate.class
 org/codehaus/jackson/map/ser/std/StdArraySerializers$LongArraySerializer.class
+org/joda/time/format/DateTimeFormatter.class
 android/support/annotation/StringDef.class
 org/codehaus/jackson/map/deser/std/EnumDeserializer.class
 org/codehaus/jackson/map/deser/std/StdDeserializer$FloatDeserializer.class
@@ -340,8 +351,10 @@ android/support/multidex/MultiDex$V4.class
 com/stripe/model/FileUpload.class
 org/codehaus/jackson/map/type/ArrayType.class
 android/support/v4/view/OnApplyWindowInsetsListener.class
+org/joda/time/base/AbstractInstant.class
 org/codehaus/jackson/map/deser/std/MapDeserializer.class
 android/support/v4/view/ViewCompatBase.class
+org/joda/time/Months.class
 com/stripe/model/ApplicationFee.class
 android/support/v4/view/accessibility/AccessibilityEventCompat.class
 com/stripe/model/Balance.class
@@ -352,12 +365,14 @@ org/codehaus/jackson/map/introspect/VisibilityChecker$Std.class
 org/codehaus/jackson/map/ser/std/JsonValueSerializer.class
 com/extraslice/walknpay/model/ProductModel.class
 org/codehaus/jackson/map/ser/StdSerializers$DoubleSerializer.class
+org/joda/time/LocalDate.class
 org/codehaus/jackson/annotate/JsonSubTypes.class
 android/support/v4/media/VolumeProviderCompatApi21.class
 android/support/v4/view/ViewCompat$ViewCompatImpl.class
 android/support/v4/net/ConnectivityManagerCompat.class
 android/support/annotation/RequiresPermission.class
 org/codehaus/jackson/impl/DefaultPrettyPrinter.class
+org/joda/time/DateTimeZone.class
 org/codehaus/jackson/map/deser/std/PrimitiveArrayDeserializers$LongDeser.class
 com/google/gson/annotations/Until.class
 org/codehaus/jackson/map/Serializers$None.class
@@ -365,6 +380,7 @@ com/stripe/model/BalanceTransaction.class
 org/codehaus/jackson/map/deser/JsonNodeDeserializer.class
 com/stripe/model/CustomerCardCollection.class
 com/app/extraslice/model/ReservationModel.class
+org/joda/time/Days.class
 android/support/v4/widget/EdgeEffectCompat.class
 org/codehaus/jackson/map/ser/StdSerializers$SqlTimeSerializer.class
 org/codehaus/jackson/annotate/JsonTypeInfo$None.class
@@ -388,12 +404,14 @@ com/extraslice/walknpay/model/TransactionModel.class
 com/stripe/model/LegalEntity.class
 org/codehaus/jackson/map/deser/std/UntypedObjectDeserializer.class
 android/support/v4/os/BuildCompat.class
+org/joda/time/YearMonthDay$Property.class
 android/support/v4/view/ViewPager$OnAdapterChangeListener.class
 org/codehaus/jackson/map/deser/std/StdDeserializer$BigDecimalDeserializer.class
 android/support/v4/text/util/LinkifyCompat$LinkifyMask.class
 android/support/v4/media/MediaMetadataCompat$LongKey.class
 org/codehaus/jackson/map/deser/ContainerDeserializer.class
 android/support/v4/view/ViewPager$1.class
+org/joda/time/TimeOfDay$Property.class
 android/support/annotation/StyleableRes.class
 android/support/v4/view/ViewPager$LayoutParams.class
 org/codehaus/jackson/map/deser/EnumResolver.class
@@ -422,6 +440,7 @@ android/support/v4/media/MediaBrowserCompatApi21$MediaItem.class
 android/support/annotation/RestrictTo.class
 android/support/v4/view/ViewConfigurationCompat.class
 org/codehaus/jackson/map/deser/SettableBeanProperty.class
+org/joda/time/Instant.class
 android/support/v4/view/ViewCompatICSMr1.class
 org/codehaus/jackson/map/annotate/JsonFilter.class
 android/support/v4/view/ViewCompat$FocusDirection.class
@@ -431,18 +450,23 @@ android/support/annotation/Px.class
 android/support/v4/widget/SearchViewCompat$OnQueryTextListenerCompat.class
 android/support/annotation/AttrRes.class
 org/codehaus/jackson/map/deser/StdDeserializer$CalendarDeserializer.class
+org/joda/time/DateTime.class
+org/joda/time/MutablePeriod.class
 com/extraslice/walknpay/model/ReceiptItemModel.class
 android/support/v4/widget/ResourceCursorAdapter.class
 android/support/annotation/Size.class
 org/codehaus/jackson/map/ser/StdSerializers$SerializableWithTypeSerializer.class
 android/support/v4/widget/MaterialProgressDrawable$1.class
 org/codehaus/jackson/map/type/TypeBase.class
+org/joda/time/TimeOfDay.class
 android/support/v4/view/ViewPager$2.class
 com/stripe/model/Customer.class
 com/google/gson/annotations/Since.class
 android/support/v4/media/RatingCompat.class
 android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.class
 android/support/v4/media/session/MediaSessionCompat$SessionFlags.class
+org/joda/time/MonthDay.class
+org/joda/time/LocalTime.class
 org/codehaus/jackson/map/SerializerProvider.class
 com/app/extraslice/model/AdminAccountModel.class
 android/support/v4/view/ViewCompat$ICSMr1ViewCompatImpl.class
@@ -453,6 +477,7 @@ android/support/v4/net/ConnectivityManagerCompat$RestrictBackgroundStatus.class
 android/support/v4/content/PermissionChecker.class
 org/codehaus/jackson/map/SerializationConfig.class
 android/support/v4/media/MediaBrowserCompat.class
+org/joda/time/Weeks.class
 org/codehaus/jackson/map/ser/ToStringSerializer.class
 org/codehaus/jackson/JsonLocation.class
 org/codehaus/jackson/JsonProcessingException.class
@@ -481,6 +506,7 @@ android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilitySt
 org/codehaus/jackson/map/util/ClassUtil.class
 com/stripe/model/Recipient.class
 android/support/v4/net/ConnectivityManagerCompatJellyBean.class
+org/joda/time/Years.class
 com/extraslice/walknpay/model/WalletCardModel.class
 org/codehaus/jackson/map/ser/std/StdArraySerializers$IntArraySerializer.class
 android/support/v4/app/ServiceCompat$ServiceCompatImpl.class
@@ -493,6 +519,7 @@ android/support/v4/app/ServiceCompat$BaseServiceCompatImpl.class
 android/support/v4/view/VelocityTrackerCompat.class
 android/support/v4/media/VolumeProviderCompat$1.class
 com/google/gson/annotations/Expose.class
+org/joda/time/Period.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplApi24.class
 org/codehaus/jackson/annotate/JsonProperty.class
 org/codehaus/jackson/map/deser/CollectionDeserializer.class
@@ -504,6 +531,7 @@ org/codehaus/jackson/impl/JsonNumericParserBase.class
 org/codehaus/jackson/map/ser/std/EnumMapSerializer.class
 org/codehaus/jackson/annotate/JsonIgnoreType.class
 com/stripe/model/Plan.class
+org/joda/time/LocalDateTime.class
 org/codehaus/jackson/map/deser/std/StdDeserializer$NumberDeserializer.class
 android/support/v4/view/MotionEventCompat.class
 android/support/v4/media/MediaBrowserCompat$ItemReceiver.class
@@ -517,6 +545,7 @@ org/codehaus/jackson/map/deser/StdDeserializer.class
 android/support/v4/net/ConnectivityManagerCompat$Api24ConnectivityManagerCompatImpl.class
 android/support/v4/media/VolumeProviderCompat$Callback.class
 org/codehaus/jackson/map/ser/ContainerSerializers.class
+org/joda/time/YearMonthDay.class
 android/support/v4/media/MediaBrowserCompat$SubscriptionCallback.class
 org/codehaus/jackson/map/ser/std/DateSerializer.class
 android/support/v4/media/RatingCompat$Style.class

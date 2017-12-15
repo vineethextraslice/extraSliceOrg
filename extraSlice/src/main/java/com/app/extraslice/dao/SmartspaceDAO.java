@@ -1,10 +1,5 @@
 package com.app.extraslice.dao;
 
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONException;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
 import com.app.extraslice.connection.WSConnnection;
@@ -12,6 +7,11 @@ import com.app.extraslice.model.ReservationModel;
 import com.app.extraslice.model.UserOrgModel;
 import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.Utilities;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.List;
 
 public class SmartspaceDAO {
 	Context mContext;

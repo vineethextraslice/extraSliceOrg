@@ -1,6 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import android.app.Activity;
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -9,7 +8,6 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.SpannableString;
 import android.text.style.UnderlineSpan;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,15 +21,11 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.Switch;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.app.extraslice.R;
-import com.extraslice.walknpay.adapter.WalletReceiptAdapter;
-import com.extraslice.walknpay.bl.TransactionBO;
 import com.extraslice.walknpay.bl.UserBO;
 import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.dao.ProgressClass;
-import com.extraslice.walknpay.model.ProductModel;
 import com.extraslice.walknpay.model.UserModel;
 
 public class ProfileFragment extends Fragment {

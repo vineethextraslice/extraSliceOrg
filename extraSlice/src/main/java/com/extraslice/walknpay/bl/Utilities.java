@@ -1,17 +1,5 @@
 package com.extraslice.walknpay.bl;
 
-import java.security.Key;
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-
-import javax.crypto.Cipher;
-import javax.crypto.spec.SecretKeySpec;
-
-import Decoder.BASE64Decoder;
-import Decoder.BASE64Encoder;
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -20,7 +8,6 @@ import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -35,7 +22,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.app.extraslice.R;
-import com.extraslice.walknpay.adapter.CartListAdapter;
 import com.extraslice.walknpay.model.CustAcctModel;
 import com.extraslice.walknpay.model.PurchasedProductModel;
 import com.extraslice.walknpay.model.StoreModel;
@@ -43,6 +29,19 @@ import com.extraslice.walknpay.model.UserModel;
 import com.extraslice.walknpay.ui.CartFragment;
 import com.extraslice.walknpay.ui.HomeFragment;
 import com.extraslice.walknpay.ui.MenuActivity;
+
+import java.security.Key;
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+import javax.crypto.Cipher;
+import javax.crypto.spec.SecretKeySpec;
+
+import Decoder.BASE64Decoder;
+import Decoder.BASE64Encoder;
 
 public class Utilities {
 	public static StoreModel selectedStore = null;
@@ -69,8 +68,8 @@ public class Utilities {
 	public static double userLatitude = 0.00;
 	public static double userLongitude = 0.00;
 
-	//public static String mainUrl = "http://walknpaydev01.cloudapp.net:8080/WalkNPayWebService/jsonws";
-	public static String mainUrl = "https://extraslice.com/WalkNPayWebService/jsonws";
+	public static String mainUrl = "http://walknpaydev01.cloudapp.net:8080/WalkNPayWebService/jsonws";
+	//public static String mainUrl = "https://extraslice.com/WalkNPayWebService/jsonws";
 	
 	public static String WARNING_FROM_SERVER = null;
 	public static long billNo = 100;
@@ -523,6 +522,8 @@ public class Utilities {
 				count =count+ (int) product.getPurchasedQuantity();
 			}
 		}
-		HomeFragment.itemNum.setText(count+"");
+		if(HomeFragment.itemNum!=null) {
+			HomeFragment.itemNum.setText(count + "");
+		}
 	}
 }

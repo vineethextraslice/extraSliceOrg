@@ -1,5 +1,4 @@
 package com.app.extraslice.utils;
-import java.math.BigDecimal;
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,6 +9,8 @@ import com.paypal.android.sdk.payments.PayPalConfiguration;
 import com.paypal.android.sdk.payments.PayPalPayment;
 import com.paypal.android.sdk.payments.PayPalService;
 import com.paypal.android.sdk.payments.PaymentActivity;
+
+import java.math.BigDecimal;
 public abstract class PaypalPaymentGateway  {
 	static Context mContext;
 	private static PayPalConfiguration config = null;

@@ -1,19 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import io.card.payment.CardIOActivity;
-import io.card.payment.CardType;
-import io.card.payment.CreditCard;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -23,7 +9,6 @@ import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.os.Handler;
 import android.text.Html;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -32,10 +17,8 @@ import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.CheckBox;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
@@ -44,7 +27,6 @@ import android.widget.TextView;
 import com.app.extraslice.R;
 import com.app.extraslice.adapter.CustomAdapter;
 import com.app.extraslice.bo.CustAcctBO;
-import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.Utilities;
 import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.StripeCardModel;
@@ -52,6 +34,18 @@ import com.stripe.Stripe;
 import com.stripe.model.Card;
 import com.stripe.model.Customer;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import io.card.payment.CardIOActivity;
+import io.card.payment.CardType;
+import io.card.payment.CreditCard;
 
 
 public class AddCardFragment extends Fragment {

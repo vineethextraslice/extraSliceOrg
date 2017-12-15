@@ -1,9 +1,11 @@
 package com.extraslice.walknpay.bl;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
+import android.content.Context;
+import android.util.Log;
+
+import com.extraslice.walknpay.dao.CouponDAO;
+import com.extraslice.walknpay.model.CouponModel;
+import com.extraslice.walknpay.ui.CartFragment;
 
 import org.codehaus.jackson.JsonGenerationException;
 import org.codehaus.jackson.map.JsonMappingException;
@@ -11,13 +13,9 @@ import org.codehaus.jettison.json.JSONArray;
 import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 
-import android.content.Context;
-import android.util.Log;
-
-import com.extraslice.walknpay.adapter.CartListAdapter;
-import com.extraslice.walknpay.dao.CouponDAO;
-import com.extraslice.walknpay.model.CouponModel;
-import com.extraslice.walknpay.ui.CartFragment;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class CouponBO {
 

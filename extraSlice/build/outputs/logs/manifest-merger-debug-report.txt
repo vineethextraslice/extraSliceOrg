@@ -1,111 +1,112 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:2:1-251:12
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:2:1-203:12
 	package
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml
 		INJECTED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:4:5-28
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:4:5-29
 		INJECTED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml
 		INJECTED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:9:5-65
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:6:5-65
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:19:5-65
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:9:22-62
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:6:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:10:5-79
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:11:5-67
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:11:22-64
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:12:5-81
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:9:5-81
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:20:5-81
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:12:22-78
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:13:5-66
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:10:5-66
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:25:5-66
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:13:22-63
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:10:22-63
 uses-feature#android.hardware.camera
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:15:5-17:36
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:12:5-14:36
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:17:5-60
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:22:5-60
 	android:required
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:17:9-33
-		MERGED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:17:9-33
-		MERGED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:17:9-33
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:14:9-33
+		MERGED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:14:9-33
+		MERGED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:14:9-33
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:16:9-47
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:13:9-47
 uses-feature#android.hardware.camera.front
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:18:5-20:36
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:15:5-17:36
 	android:required
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:20:9-33
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:17:9-33
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:19:9-53
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:16:9-53
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:21:5-23:36
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:18:5-20:36
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:23:5-70
 	android:required
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:23:9-33
-		MERGED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:23:9-33
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:20:9-33
+		MERGED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:20:9-33
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:22:9-57
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:19:9-57
 uses-feature#android.hardware.camera.flash
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:24:5-26:36
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:21:5-23:36
 	android:required
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:26:9-33
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:23:9-33
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:25:9-53
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:22:9-53
 uses-feature#android.hardware.screen.landscape
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:27:5-70
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:27:19-67
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:24:19-67
 uses-feature#android.hardware.wifi
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:26:9-45
+uses-feature#android.hardware.touchscreen
 ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:28:5-30:36
 	android:required
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:30:9-33
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:29:9-45
-uses-feature#android.hardware.touchscreen
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:31:5-33:36
-	android:required
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:33:9-33
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:32:9-52
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:29:9-52
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:35:5-75
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:32:5-75
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:35:22-72
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:32:22-72
 supports-screens
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:37:5-39:40
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:34:5-39:37
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:39
 	android:largeScreens
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:38:9-36
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:37:9-36
 	android:smallScreens
-		ADDED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:15:9-36
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:35:9-36
 	android:normalScreens
-		ADDED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:14:9-37
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:36:9-37
 	android:xlargeScreens
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:39:9-37
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:38:9-37
 	android:anyDensity
-		ADDED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:12:9-34
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:39:9-34
 application
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:41:5-249:19
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:41:5-201:19
+MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:28:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-v4:25.0.0] /Users/admin/.android/build-cache/27feab14ba99a1e2c3e9a0a39decd3768c2a851b/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.0.0] /Users/admin/.android/build-cache/0513569be1c446d3dc77f76cd243f06d74908f35/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.0.0] /Users/admin/.android/build-cache/94f69420fb6118bfdebb39e756e718432ac68749/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-ui:25.0.0] /Users/admin/.android/build-cache/ab6d2a9807c2f3370628f722b606a2e791344ba2/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:25.0.0] /Users/admin/.android/build-cache/5f0a226f1caec8753865966dae4ba4bcdb932da3/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.0.0] /Users/admin/.android/build-cache/307572a2a2c8cea2e33b5df5978c0a27c2f03e99/output/AndroidManifest.xml:25:5-20
-MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:28:5-33:19
 	android:label
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:44:9-41
 	android:allowBackup
@@ -121,7 +122,7 @@ ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/Android
 	android:label
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:48:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:51:13-52
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:51:13-55
 	android:theme
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:50:13-49
 	android:name
@@ -137,282 +138,286 @@ ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/Android
 	android:name
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:55:27-74
 activity#com.extraslice.walknpay.ui.SplashScreen
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:58:9-64:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:58:9-63:20
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:61:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:60:13-49
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:62:13-43
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:61:13-43
 	android:name
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:59:13-67
 activity#com.extraslice.walknpay.ui.MenuActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:65:9-70:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:64:9-67:55
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:68:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:66:13-49
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:69:13-43
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:67:13-43
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:66:13-67
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:65:13-67
 activity#com.app.extraslice.GustSignupActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:71:9-76:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:68:9-71:55
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:71:13-43
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:69:13-47
+activity#com.extraslice.walknpay.ui.LoginScreen
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:72:9-75:55
 	android:screenOrientation
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:74:13-49
 	android:theme
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:75:13-43
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:72:13-65
-activity#com.extraslice.walknpay.ui.LoginScreen
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:77:9-82:20
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:80:13-49
-	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:81:13-43
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:78:13-66
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:73:13-66
 activity#com.paytm.pgsdk.PaytmPGActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:83:9-87:57
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:76:9-80:57
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:85:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:78:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:87:13-54
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:80:13-54
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:86:13-44
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:79:13-44
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:84:13-59
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:77:13-59
 activity#com.extraslice.walknpay.ui.WebViewActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:88:9-92:46
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:81:9-84:46
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:91:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:83:13-49
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:92:13-43
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:84:13-43
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:89:13-70
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:82:13-70
 activity#com.extraslice.walknpay.ui.BackActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:93:9-97:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:85:9-87:61
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:86:13-67
+activity#com.extraslice.walknpay.ui.CartActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:88:9-90:61
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:89:13-67
+activity#com.extraslice.walknpay.ui.HomeActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:91:9-93:61
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:92:13-67
+activity#com.extraslice.walknpay.ui.RegisterScreen
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:94:9-97:55
 	android:screenOrientation
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:96:13-49
+	android:theme
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:97:13-43
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:94:13-67
-activity#com.extraslice.walknpay.ui.CartActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:98:9-102:20
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:95:13-69
+activity#com.extraslice.walknpay.ui.HomeTab
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:98:9-100:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:101:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:100:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:99:13-67
-activity#com.extraslice.walknpay.ui.HomeActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:103:9-107:20
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:99:13-62
+activity#com.extraslice.walknpay.ui.HomeFragment
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:101:9-103:61
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:102:13-67
+activity#com.extraslice.walknpay.ui.FragmentMainActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:104:9-106:61
 	android:screenOrientation
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:106:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:104:13-67
-activity#com.extraslice.walknpay.ui.RegisterScreen
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:108:9-113:20
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:111:13-49
-	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:112:13-43
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:109:13-69
-activity#com.extraslice.walknpay.ui.HomeTab
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:114:9-118:20
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:117:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:115:13-62
-activity#com.extraslice.walknpay.ui.HomeFragment
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:119:9-123:20
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:122:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:120:13-67
-activity#com.extraslice.walknpay.ui.FragmentMainActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:124:9-128:20
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:127:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:125:13-75
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:105:13-75
 activity#com.extraslice.walknpay.ui.CartTab
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:129:9-133:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:107:9-109:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:132:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:109:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:130:13-62
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:108:13-62
 activity#com.extraslice.walknpay.ui.ConfirmationScreen
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:134:9-138:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:110:9-112:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:137:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:112:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:135:13-73
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:111:13-73
 activity#com.extraslice.walknpay.ui.WalletTab
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:139:9-144:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:113:9-116:77
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:142:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:115:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:143:13-65
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:116:13-65
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:140:13-64
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:114:13-64
 activity#com.extraslice.walknpay.ui.RewardsTab
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:145:9-149:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:117:9-119:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:148:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:119:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:146:13-65
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:118:13-65
 activity#com.extraslice.walknpay.ui.PaymentScreen
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:150:9-155:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:120:9-123:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:154:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:123:13-49
 	android:noHistory
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:153:13-37
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:122:13-37
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:151:13-68
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:121:13-68
 activity#jim.h.common.android.lib.zxing.CaptureActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:156:9-161:63
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:124:9-128:63
 MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:29:9-32:63
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:159:13-50
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:126:13-50
 	android:windowSoftInputMode
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:161:13-60
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:128:13-60
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:160:13-71
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:127:13-71
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:157:13-74
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:125:13-74
 activity#com.extraslice.walknpay.ui.Forgot
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:162:9-166:46
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:129:9-132:46
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:165:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:131:13-49
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:166:13-43
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:132:13-43
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:163:13-61
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:130:13-61
 activity#com.extraslice.walknpay.ui.Associate
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:167:9-170:52
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:133:9-135:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:135:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:134:13-64
+activity#com.extraslice.walknpay.ui.CreditCardDetail
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:136:9-138:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:138:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:137:13-71
+activity#com.extraslice.walknpay.ui.EditCreditCardDetail
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:139:9-141:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:141:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:140:13-75
+activity#com.extraslice.walknpay.ui.ReceiptClass
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:142:9-144:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:144:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:143:13-67
+activity#com.extraslice.walknpay.ui.PopupActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:145:9-148:89
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:147:13-49
+	android:theme
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:148:13-77
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:146:13-68
+activity#com.extraslice.walknpay.ui.CaptureActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:149:9-153:63
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:151:13-50
+	android:windowSoftInputMode
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:153:13-60
+	android:theme
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:152:13-71
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:150:13-70
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:155:9-157:40
+	android:exported
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:156:13-73
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:159:9-161:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:161:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:160:13-75
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:162:9-164:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:163:13-73
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:165:9-167:52
+	android:screenOrientation
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:167:13-49
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:166:13-81
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:168:9-170:52
 	android:screenOrientation
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:170:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:168:13-64
-activity#com.extraslice.walknpay.ui.CreditCardDetail
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:169:13-82
+activity#io.card.payment.CardIOActivity
 ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:171:9-174:52
 	android:screenOrientation
 		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:174:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:172:13-71
-activity#com.extraslice.walknpay.ui.EditCreditCardDetail
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:175:9-178:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:178:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:176:13-75
-activity#com.extraslice.walknpay.ui.ReceiptClass
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:179:9-182:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:182:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:180:13-67
-activity#com.extraslice.walknpay.ui.PopupActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:183:9-187:20
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:185:13-49
-	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:186:13-77
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:184:13-68
-activity#com.extraslice.walknpay.ui.CaptureActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:188:9-193:63
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:191:13-50
-	android:windowSoftInputMode
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:193:13-60
-	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:192:13-71
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:189:13-70
-service#com.paypal.android.sdk.payments.PayPalService
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:195:9-197:40
-	android:exported
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:197:13-37
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:196:13-73
-activity#com.paypal.android.sdk.payments.PaymentActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:199:9-201:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:201:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:200:13-75
-activity#com.paypal.android.sdk.payments.LoginActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:202:9-204:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:204:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:203:13-73
-activity#com.paypal.android.sdk.payments.PaymentMethodActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:205:9-207:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:207:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:206:13-81
-activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:208:9-210:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:210:13-49
-	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:209:13-82
-activity#io.card.payment.CardIOActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:211:9-214:52
-	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:214:13-49
 	android:configChanges
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:213:13-63
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:173:13-63
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:212:13-58
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:172:13-58
 activity#io.card.payment.DataEntryActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:215:9-217:52
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:175:9-177:52
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:217:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:177:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:216:13-61
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:176:13-61
 activity#com.app.extraslice.MenuActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:218:9-222:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:178:9-180:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:221:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:180:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:219:13-59
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:179:13-41
 activity#com.app.extraslice.WebViewActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:223:9-227:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:181:9-183:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:226:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:183:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:224:13-62
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:182:13-44
 activity#com.app.extraslice.SignupActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:228:9-233:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:184:9-187:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:231:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:186:13-49
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:232:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:187:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:229:13-61
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:185:13-43
 activity#com.app.extraslice.ForgotPasswordActivity
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:234:9-239:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:188:9-191:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:237:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:190:13-49
 	android:theme
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:238:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:191:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:235:13-69
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:189:13-51
 activity#com.app.extraslice.UserDetailsFragment
-ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:240:9-244:20
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:192:9-194:61
 	android:screenOrientation
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:243:13-49
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:194:13-49
 	android:name
-		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:241:13-66
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:193:13-48
+activity#com.app.extraslice.fragments.SupportForm
+ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:200:9-68
+	android:name
+		ADDED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:200:19-56
 uses-sdk
 INJECTED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] /Users/admin/.android/build-cache/256ab533159dea2e198d3d7c4725f196565a6bf9/output/AndroidManifest.xml:18:5-42
+MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v4:25.0.0] /Users/admin/.android/build-cache/27feab14ba99a1e2c3e9a0a39decd3768c2a851b/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.0.0] /Users/admin/.android/build-cache/0513569be1c446d3dc77f76cd243f06d74908f35/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.0.0] /Users/admin/.android/build-cache/94f69420fb6118bfdebb39e756e718432ac68749/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.0.0] /Users/admin/.android/build-cache/ab6d2a9807c2f3370628f722b606a2e791344ba2/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.0.0] /Users/admin/.android/build-cache/5f0a226f1caec8753865966dae4ba4bcdb932da3/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.0.0] /Users/admin/.android/build-cache/307572a2a2c8cea2e33b5df5978c0a27c2f03e99/output/AndroidManifest.xml:21:5-23:58
-MERGED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:40
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:25.0.0] /Users/admin/.android/build-cache/27feab14ba99a1e2c3e9a0a39decd3768c2a851b/output/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
@@ -426,4 +431,4 @@ ADDED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extr
 	android:name
 		ADDED from [extraSliceOrg:ZXingLib:unspecified] /Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/AndroidManifest.xml:26:22-66
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:2:1-251:12 reason: jim.h.common.android.lib.zxing requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/AndroidManifest.xml:2:1-203:12 reason: jim.h.common.android.lib.zxing requested WRITE_EXTERNAL_STORAGE

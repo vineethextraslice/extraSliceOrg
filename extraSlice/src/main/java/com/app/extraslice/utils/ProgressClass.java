@@ -1,7 +1,5 @@
 package com.app.extraslice.utils;
 
-import com.app.extraslice.R;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.drawable.ColorDrawable;
@@ -11,6 +9,8 @@ import android.view.animation.Animation;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
+
+import com.app.extraslice.R;
 
 
 

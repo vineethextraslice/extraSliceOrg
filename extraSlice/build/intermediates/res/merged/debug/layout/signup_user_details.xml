@@ -176,7 +176,7 @@
                 android:ems="10"
                 android:gravity="center"
                 android:hint="Confirm password"
-                android:imeOptions="actionNext"
+                android:imeOptions="actionDone"
                 android:inputType="textPassword"
                 android:paddingLeft="5dp"
                 android:singleLine="true"

@@ -1,12 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -22,23 +15,21 @@ import android.view.Window;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.app.extraslice.R;
-import com.app.extraslice.bo.CustAcctBO;
-import com.app.extraslice.utils.Utilities;
-
 import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.StripeCardModel;
 import com.extraslice.walknpay.ui.AddCardFragment;
 import com.extraslice.walknpay.ui.WalletFragment;
 import com.stripe.Stripe;
-import com.stripe.model.Card;
 import com.stripe.model.Customer;
-import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class WalletCardAdapter extends ArrayAdapter<StripeCardModel> {

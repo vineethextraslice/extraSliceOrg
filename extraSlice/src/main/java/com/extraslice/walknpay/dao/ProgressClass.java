@@ -1,11 +1,10 @@
 package com.extraslice.walknpay.dao;
 
-import com.app.extraslice.R;
-
-import android.R.style;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.util.Log;
+
+import com.app.extraslice.R;
 
 public class ProgressClass {
 	private static ProgressDialog progressDialog;

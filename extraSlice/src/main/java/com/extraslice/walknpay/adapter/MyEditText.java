@@ -1,7 +1,6 @@
 package com.extraslice.walknpay.adapter;
 
 import android.content.Context;
-import android.text.TextWatcher;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -10,7 +9,6 @@ import android.widget.EditText;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.adapter.CartListAdapter.TRHolder;
-import com.extraslice.walknpay.ui.CartFragment;
 
 public class MyEditText extends EditText {
 

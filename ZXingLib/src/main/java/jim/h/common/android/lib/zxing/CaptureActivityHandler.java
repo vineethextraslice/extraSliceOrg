@@ -16,9 +16,6 @@
 
 package jim.h.common.android.lib.zxing;
 
-import java.util.Vector;
-
-import jim.h.common.android.lib.zxing.camera.CameraManager;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -29,6 +26,10 @@ import android.util.Log;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
+
+import java.util.Vector;
+
+import jim.h.common.android.lib.zxing.camera.CameraManager;
 
 /**
  * This class handles all the messaging which comprises the state machine for

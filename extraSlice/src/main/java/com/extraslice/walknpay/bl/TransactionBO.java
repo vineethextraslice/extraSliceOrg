@@ -1,22 +1,12 @@
 package com.extraslice.walknpay.bl;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.ExecutionException;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONException;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
-import android.widget.Toast;
 
 import com.extraslice.walknpay.dao.TransactionDAO;
-import com.extraslice.walknpay.model.CouponModel;
-import com.extraslice.walknpay.model.PurchasedProductModel;
-import com.extraslice.walknpay.model.StoreModel;
 import com.extraslice.walknpay.model.TransactionModel;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
 
 public class TransactionBO {
 	Context mContext;

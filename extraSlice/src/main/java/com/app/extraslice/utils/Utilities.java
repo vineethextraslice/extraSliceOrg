@@ -1,4 +1,13 @@
 package com.app.extraslice.utils;
+
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+
+import com.app.extraslice.R;
+import com.app.extraslice.model.SmartSpaceModel;
+import com.app.extraslice.model.UserModel;
+
 import java.security.Key;
 import java.text.DecimalFormat;
 import java.util.List;
@@ -8,13 +17,6 @@ import javax.crypto.spec.SecretKeySpec;
 
 import Decoder.BASE64Decoder;
 import Decoder.BASE64Encoder;
-import android.app.Fragment;
-import android.app.FragmentManager;
-import android.app.FragmentTransaction;
-
-import com.app.extraslice.R;
-import com.app.extraslice.model.SmartSpaceModel;
-import com.app.extraslice.model.UserModel;
 
 public class Utilities {
 	public static UserModel loggedInUser;
@@ -27,8 +29,8 @@ public class Utilities {
 	public static final String SCAN_FOR_PURCHASE = "PURCHASE";
 	public static final String SCAN_FOR_STORE = "STORE";
 	public static final String SCAN_FOR_PAYPAL = "PAYPAL";
-	//public static String mainUrl = "http://walknpaydev01.cloudapp.net:8080/ExtraSliceWebService/jsonws";
-	public static String mainUrl ="https://extraslice.com/ExtraSliceWebService/jsonws";
+	public static String mainUrl = "http://walknpaydev01.cloudapp.net:8080/ExtraSliceWebService/jsonws";
+	//public static String mainUrl ="https://extraslice.com/ExtraSliceWebService/jsonws";
 	//
 		//
 	private static final String ALGORITHM = "AES";

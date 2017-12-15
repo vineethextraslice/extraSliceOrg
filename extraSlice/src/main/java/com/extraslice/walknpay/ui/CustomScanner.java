@@ -1,8 +1,9 @@
 package com.extraslice.walknpay.ui;
 
-import jim.h.common.android.lib.zxing.Intents;
 import android.app.Activity;
 import android.content.Intent;
+
+import jim.h.common.android.lib.zxing.Intents;
 
 /**
  * @author Jim.H

@@ -1,14 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.concurrent.ExecutionException;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -54,6 +45,15 @@ import com.extraslice.walknpay.ui.transaction.AddTransaction;
 import com.extraslice.walknpay.ui.transaction.PaypalPaymentGateway;
 import com.extraslice.walknpay.ui.transaction.StrpePaymentGateway;
 import com.extraslice.walknpay.ui.transaction.UpdateTransaction;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.concurrent.ExecutionException;
 
 public class PaymentOptionScreen extends Fragment {
 	View rootView;

@@ -1,12 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.sql.Timestamp;
-import java.text.DateFormat;
-import java.text.DecimalFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.List;
-
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.FragmentManager;
@@ -19,8 +12,6 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.CheckBox;
-import android.widget.CompoundButton;
-import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.TextView;
 
 import com.app.extraslice.R;
@@ -28,6 +19,13 @@ import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.model.CouponModel;
 import com.extraslice.walknpay.ui.MenuActivity;
 import com.extraslice.walknpay.ui.PaymentOptionScreen;
+
+import java.sql.Timestamp;
+import java.text.DateFormat;
+import java.text.DecimalFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
 
 @SuppressLint("NewApi")
 public class CouponAdapter extends ArrayAdapter<CouponModel> {

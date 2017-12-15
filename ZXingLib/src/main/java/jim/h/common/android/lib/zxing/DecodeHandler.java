@@ -16,10 +16,6 @@
 
 package jim.h.common.android.lib.zxing;
 
-import java.util.Hashtable;
-
-import jim.h.common.android.lib.zxing.camera.CameraManager;
-import jim.h.common.android.lib.zxing.camera.PlanarYUVLuminanceSource;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
@@ -32,6 +28,11 @@ import com.google.zxing.MultiFormatReader;
 import com.google.zxing.ReaderException;
 import com.google.zxing.Result;
 import com.google.zxing.common.HybridBinarizer;
+
+import java.util.Hashtable;
+
+import jim.h.common.android.lib.zxing.camera.CameraManager;
+import jim.h.common.android.lib.zxing.camera.PlanarYUVLuminanceSource;
 
 final class DecodeHandler extends Handler {
 

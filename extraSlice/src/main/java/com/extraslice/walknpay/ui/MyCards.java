@@ -1,14 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.concurrent.ExecutionException;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Dialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -31,7 +22,6 @@ import android.widget.ListView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.app.extraslice.R;
@@ -48,6 +38,15 @@ import com.extraslice.walknpay.model.StripeCardModel;
 import com.extraslice.walknpay.ui.transaction.AddPrepaidBalance;
 import com.extraslice.walknpay.ui.transaction.PaypalPaymentGateway;
 import com.extraslice.walknpay.ui.transaction.StrpePaymentGateway;
+
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.concurrent.ExecutionException;
 
 public class MyCards extends Fragment {
 	boolean isSuccess;

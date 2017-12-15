@@ -16,10 +16,10 @@
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
-                        "startOffset": 5854,
+                        "startOffset": 5848,
                         "endLine": 132,
                         "endColumn": 19,
-                        "endOffset": 6053
+                        "endOffset": 6047
                     }
                 }
             },
@@ -51,17 +51,17 @@
                     "startOffset": 636,
                     "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 1087
+                    "endOffset": 1085
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 2021,
+                        "startOffset": 2017,
                         "endLine": 46,
                         "endColumn": 12,
-                        "endOffset": 2472
+                        "endOffset": 2466
                     }
                 }
             },
@@ -69,20 +69,20 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 1092,
+                    "startOffset": 1090,
                     "endLine": 45,
                     "endColumn": 19,
-                    "endOffset": 1456
+                    "endOffset": 1454
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1558,
+                        "startOffset": 1554,
                         "endLine": 31,
                         "endColumn": 19,
-                        "endOffset": 1922
+                        "endOffset": 1918
                     }
                 }
             },
@@ -90,20 +90,20 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 1461,
+                    "startOffset": 1459,
                     "endLine": 49,
                     "endColumn": 19,
-                    "endOffset": 1598
+                    "endOffset": 1596
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 4,
-                        "startOffset": 6058,
+                        "startOffset": 6052,
                         "endLine": 136,
                         "endColumn": 19,
-                        "endOffset": 6195
+                        "endOffset": 6189
                     }
                 }
             },
@@ -111,20 +111,20 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 1603,
+                    "startOffset": 1601,
                     "endLine": 60,
                     "endColumn": 12,
-                    "endOffset": 2017
+                    "endOffset": 2015
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
-                        "startOffset": 3636,
+                        "startOffset": 3630,
                         "endLine": 86,
                         "endColumn": 12,
-                        "endOffset": 4050
+                        "endOffset": 4044
                     }
                 }
             },
@@ -132,20 +132,20 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 2022,
+                    "startOffset": 2020,
                     "endLine": 71,
                     "endColumn": 19,
-                    "endOffset": 2335
+                    "endOffset": 2333
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 3224,
+                        "startOffset": 3218,
                         "endLine": 72,
                         "endColumn": 19,
-                        "endOffset": 3537
+                        "endOffset": 3531
                     }
                 }
             },
@@ -153,10 +153,10 @@
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 2340,
+                    "startOffset": 2338,
                     "endLine": 83,
                     "endColumn": 19,
-                    "endOffset": 2652
+                    "endOffset": 2650
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dates.xml",
@@ -174,9 +174,881 @@
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 2657,
+                    "startOffset": 2655,
+                    "endColumn": 51,
+                    "endOffset": 2702
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2707,
+                    "endColumn": 69,
+                    "endOffset": 2772
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 69,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2777,
+                    "endLine": 88,
+                    "endColumn": 11,
+                    "endOffset": 2905
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 6,
+                        "endColumn": 11,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2910,
+                    "endColumn": 67,
+                    "endOffset": 2973
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 67,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2978,
+                    "endLine": 92,
+                    "endColumn": 11,
+                    "endOffset": 3102
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3107,
+                    "endLine": 95,
+                    "endColumn": 11,
+                    "endOffset": 3228
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endLine": 13,
+                        "endColumn": 11,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3233,
+                    "endColumn": 66,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 66,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endLine": 99,
+                    "endColumn": 11,
+                    "endOffset": 3418
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endLine": 17,
+                        "endColumn": 11,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3423,
+                    "endLine": 102,
+                    "endColumn": 11,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endLine": 20,
+                        "endColumn": 11,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endColumn": 66,
+                    "endOffset": 3610
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 66,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3615,
+                    "endColumn": 64,
+                    "endOffset": 3675
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 64,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3680,
+                    "endColumn": 64,
+                    "endOffset": 3740
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 64,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3745,
+                    "endLine": 109,
+                    "endColumn": 11,
+                    "endOffset": 3880
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3885,
+                    "endColumn": 65,
+                    "endOffset": 3946
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 65,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 3951,
+                    "endColumn": 65,
+                    "endOffset": 4012
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 65,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4017,
+                    "endColumn": 66,
+                    "endOffset": 4079
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 66,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4084,
+                    "endLine": 117,
+                    "endColumn": 11,
+                    "endOffset": 4289
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endLine": 35,
+                        "endColumn": 11,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4294,
+                    "endColumn": 68,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 68,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 65,
+                    "endOffset": 4424
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 65,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4429,
+                    "endLine": 122,
+                    "endColumn": 11,
+                    "endOffset": 4549
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endLine": 40,
+                        "endColumn": 11,
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4554,
+                    "endLine": 125,
+                    "endColumn": 11,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endLine": 43,
+                        "endColumn": 11,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 66,
+                    "endOffset": 4742
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endColumn": 66,
+                        "endOffset": 2142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4747,
+                    "endLine": 129,
+                    "endColumn": 11,
+                    "endOffset": 4868
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2147,
+                        "endLine": 47,
+                        "endColumn": 11,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4873,
+                    "endLine": 132,
+                    "endColumn": 11,
+                    "endOffset": 4995
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endLine": 50,
+                        "endColumn": 11,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5000,
+                    "endLine": 135,
+                    "endColumn": 11,
+                    "endOffset": 5120
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endLine": 53,
+                        "endColumn": 11,
+                        "endOffset": 2520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5125,
+                    "endLine": 138,
+                    "endColumn": 11,
+                    "endOffset": 5247
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2525,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 2647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5252,
+                    "endColumn": 64,
+                    "endOffset": 5312
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2652,
+                        "endColumn": 64,
+                        "endOffset": 2712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5317,
+                    "endLine": 142,
+                    "endColumn": 11,
+                    "endOffset": 5438
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2717,
+                        "endLine": 60,
+                        "endColumn": 11,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5443,
+                    "endLine": 145,
+                    "endColumn": 11,
+                    "endOffset": 5561
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2843,
+                        "endLine": 63,
+                        "endColumn": 11,
+                        "endOffset": 2961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 5566,
+                    "endColumn": 64,
+                    "endOffset": 5626
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 64,
+                        "endOffset": 3026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 5631,
+                    "endLine": 151,
+                    "endColumn": 11,
+                    "endOffset": 5834
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3031,
+                        "endLine": 69,
+                        "endColumn": 11,
+                        "endOffset": 3234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5839,
+                    "endColumn": 66,
+                    "endOffset": 5901
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3239,
+                        "endColumn": 66,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5906,
+                    "endLine": 156,
+                    "endColumn": 11,
+                    "endOffset": 6040
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 74,
+                        "endColumn": 11,
+                        "endOffset": 3440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 6045,
+                    "endColumn": 64,
+                    "endOffset": 6105
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3445,
+                        "endColumn": 64,
+                        "endOffset": 3505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 6110,
+                    "endColumn": 64,
+                    "endOffset": 6170
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3510,
+                        "endColumn": 64,
+                        "endOffset": 3570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 6175,
+                    "endColumn": 61,
+                    "endOffset": 6232
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3575,
+                        "endColumn": 61,
+                        "endOffset": 3632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 6237,
+                    "endColumn": 61,
+                    "endOffset": 6294
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3637,
+                        "endColumn": 61,
+                        "endOffset": 3694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 6299,
+                    "endColumn": 61,
+                    "endOffset": 6356
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3699,
+                        "endColumn": 61,
+                        "endOffset": 3756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 6361,
+                    "endColumn": 58,
+                    "endOffset": 6415
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3761,
+                        "endColumn": 58,
+                        "endOffset": 3815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 6420,
+                    "endColumn": 59,
+                    "endOffset": 6475
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3820,
+                        "endColumn": 59,
+                        "endOffset": 3875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 6480,
+                    "endColumn": 60,
+                    "endOffset": 6536
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3880,
+                        "endColumn": 60,
+                        "endOffset": 3936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6541,
+                    "endColumn": 60,
+                    "endOffset": 6597
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3941,
+                        "endColumn": 60,
+                        "endOffset": 3997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 6602,
+                    "endColumn": 58,
+                    "endOffset": 6656
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4002,
+                        "endColumn": 58,
+                        "endOffset": 4056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6661,
+                    "endLine": 172,
+                    "endColumn": 11,
+                    "endOffset": 6865
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/8827cd17fee4af24527933333d039ceece081c06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4061,
+                        "endLine": 90,
+                        "endColumn": 11,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6870,
                     "endColumn": 54,
-                    "endOffset": 2707
+                    "endOffset": 6920
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -191,11 +1063,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 2712,
+                    "startOffset": 6925,
                     "endColumn": 39,
-                    "endOffset": 2747
+                    "endOffset": 6960
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -210,11 +1082,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 2752,
+                    "startOffset": 6965,
                     "endColumn": 53,
-                    "endOffset": 2801
+                    "endOffset": 7014
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -229,11 +1101,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 2806,
+                    "startOffset": 7019,
                     "endColumn": 38,
-                    "endOffset": 2840
+                    "endOffset": 7053
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -248,11 +1120,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 2845,
+                    "startOffset": 7058,
                     "endColumn": 46,
-                    "endOffset": 2887
+                    "endOffset": 7100
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -267,11 +1139,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 2892,
+                    "startOffset": 7105,
                     "endColumn": 45,
-                    "endOffset": 2933
+                    "endOffset": 7146
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -286,11 +1158,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 2938,
+                    "startOffset": 7151,
                     "endColumn": 49,
-                    "endOffset": 2983
+                    "endOffset": 7196
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -305,11 +1177,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 2988,
+                    "startOffset": 7201,
                     "endColumn": 49,
-                    "endOffset": 3033
+                    "endOffset": 7246
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -324,11 +1196,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 3038,
+                    "startOffset": 7251,
                     "endColumn": 52,
-                    "endOffset": 3086
+                    "endOffset": 7299
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -343,11 +1215,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 3091,
+                    "startOffset": 7304,
                     "endColumn": 42,
-                    "endOffset": 3129
+                    "endOffset": 7342
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -362,11 +1234,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 3134,
+                    "startOffset": 7347,
                     "endColumn": 42,
-                    "endOffset": 3172
+                    "endOffset": 7385
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -381,11 +1253,11 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 3177,
+                    "startOffset": 7390,
                     "endColumn": 47,
-                    "endOffset": 3220
+                    "endOffset": 7433
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -400,11 +1272,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 3225,
+                    "startOffset": 7438,
                     "endColumn": 54,
-                    "endOffset": 3275
+                    "endOffset": 7488
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -419,11 +1291,11 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 3280,
+                    "startOffset": 7493,
                     "endColumn": 40,
-                    "endOffset": 3316
+                    "endOffset": 7529
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -438,11 +1310,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 3321,
+                    "startOffset": 7534,
                     "endColumn": 41,
-                    "endOffset": 3358
+                    "endOffset": 7571
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -457,11 +1329,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 3363,
+                    "startOffset": 7576,
                     "endColumn": 39,
-                    "endOffset": 3398
+                    "endOffset": 7611
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -476,11 +1348,11 @@
             },
             {
                 "to": {
-                    "startLine": 100,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 3403,
+                    "startOffset": 7616,
                     "endColumn": 49,
-                    "endOffset": 3448
+                    "endOffset": 7661
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -495,11 +1367,11 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 3453,
+                    "startOffset": 7666,
                     "endColumn": 43,
-                    "endOffset": 3492
+                    "endOffset": 7705
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -514,11 +1386,11 @@
             },
             {
                 "to": {
-                    "startLine": 102,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 3497,
+                    "startOffset": 7710,
                     "endColumn": 49,
-                    "endOffset": 3542
+                    "endOffset": 7755
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -533,11 +1405,11 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 3547,
+                    "startOffset": 7760,
                     "endColumn": 57,
-                    "endOffset": 3600
+                    "endOffset": 7813
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -552,11 +1424,11 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 3605,
+                    "startOffset": 7818,
                     "endColumn": 46,
-                    "endOffset": 3647
+                    "endOffset": 7860
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -571,11 +1443,11 @@
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 3652,
+                    "startOffset": 7865,
                     "endColumn": 54,
-                    "endOffset": 3702
+                    "endOffset": 7915
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -590,11 +1462,11 @@
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 3707,
+                    "startOffset": 7920,
                     "endColumn": 60,
-                    "endOffset": 3763
+                    "endOffset": 7976
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -609,11 +1481,11 @@
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 3768,
+                    "startOffset": 7981,
                     "endColumn": 37,
-                    "endOffset": 3801
+                    "endOffset": 8014
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -628,11 +1500,11 @@
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 3806,
+                    "startOffset": 8019,
                     "endColumn": 45,
-                    "endOffset": 3847
+                    "endOffset": 8060
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -647,11 +1519,11 @@
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 3852,
+                    "startOffset": 8065,
                     "endColumn": 43,
-                    "endOffset": 3891
+                    "endOffset": 8104
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -666,11 +1538,11 @@
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 3896,
+                    "startOffset": 8109,
                     "endColumn": 50,
-                    "endOffset": 3942
+                    "endOffset": 8155
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -685,11 +1557,11 @@
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 3947,
+                    "startOffset": 8160,
                     "endColumn": 56,
-                    "endOffset": 3999
+                    "endOffset": 8212
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -704,11 +1576,11 @@
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 4004,
+                    "startOffset": 8217,
                     "endColumn": 56,
-                    "endOffset": 4056
+                    "endOffset": 8269
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -723,11 +1595,11 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 4061,
+                    "startOffset": 8274,
                     "endColumn": 56,
-                    "endOffset": 4113
+                    "endOffset": 8326
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -742,11 +1614,11 @@
             },
             {
                 "to": {
-                    "startLine": 114,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 4118,
+                    "startOffset": 8331,
                     "endColumn": 56,
-                    "endOffset": 4170
+                    "endOffset": 8383
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -761,11 +1633,11 @@
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 4175,
+                    "startOffset": 8388,
                     "endColumn": 56,
-                    "endOffset": 4227
+                    "endOffset": 8440
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -780,11 +1652,11 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 4232,
+                    "startOffset": 8445,
                     "endColumn": 56,
-                    "endOffset": 4284
+                    "endOffset": 8497
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -799,11 +1671,11 @@
             },
             {
                 "to": {
-                    "startLine": 117,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 4289,
+                    "startOffset": 8502,
                     "endColumn": 56,
-                    "endOffset": 4341
+                    "endOffset": 8554
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -818,11 +1690,11 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 4346,
+                    "startOffset": 8559,
                     "endColumn": 49,
-                    "endOffset": 4391
+                    "endOffset": 8604
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -837,11 +1709,11 @@
             },
             {
                 "to": {
-                    "startLine": 119,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 4396,
+                    "startOffset": 8609,
                     "endColumn": 45,
-                    "endOffset": 4437
+                    "endOffset": 8650
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -856,11 +1728,11 @@
             },
             {
                 "to": {
-                    "startLine": 120,
+                    "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 4442,
+                    "startOffset": 8655,
                     "endColumn": 50,
-                    "endOffset": 4488
+                    "endOffset": 8701
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -875,11 +1747,11 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 4493,
+                    "startOffset": 8706,
                     "endColumn": 52,
-                    "endOffset": 4541
+                    "endOffset": 8754
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -894,11 +1766,11 @@
             },
             {
                 "to": {
-                    "startLine": 122,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 4546,
+                    "startOffset": 8759,
                     "endColumn": 56,
-                    "endOffset": 4598
+                    "endOffset": 8811
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -913,11 +1785,11 @@
             },
             {
                 "to": {
-                    "startLine": 123,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 4603,
+                    "startOffset": 8816,
                     "endColumn": 39,
-                    "endOffset": 4638
+                    "endOffset": 8851
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -932,11 +1804,11 @@
             },
             {
                 "to": {
-                    "startLine": 124,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 4643,
+                    "startOffset": 8856,
                     "endColumn": 44,
-                    "endOffset": 4683
+                    "endOffset": 8896
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -951,30 +1823,30 @@
             },
             {
                 "to": {
-                    "startLine": 125,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 4688,
+                    "startOffset": 8901,
                     "endColumn": 53,
-                    "endOffset": 4737
+                    "endOffset": 8950
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 126,
                         "startColumn": 4,
-                        "startOffset": 5799,
+                        "startOffset": 5793,
                         "endColumn": 53,
-                        "endOffset": 5848
+                        "endOffset": 5842
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 126,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 4742,
+                    "startOffset": 8955,
                     "endColumn": 45,
-                    "endOffset": 4783
+                    "endOffset": 8996
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/color.xml",
@@ -989,11 +1861,11 @@
             },
             {
                 "to": {
-                    "startLine": 127,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 4788,
+                    "startOffset": 9001,
                     "endColumn": 67,
-                    "endOffset": 4851
+                    "endOffset": 9064
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1008,11 +1880,11 @@
             },
             {
                 "to": {
-                    "startLine": 128,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 4856,
+                    "startOffset": 9069,
                     "endColumn": 64,
-                    "endOffset": 4916
+                    "endOffset": 9129
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1027,11 +1899,11 @@
             },
             {
                 "to": {
-                    "startLine": 129,
+                    "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 4921,
+                    "startOffset": 9134,
                     "endColumn": 58,
-                    "endOffset": 4975
+                    "endOffset": 9188
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1046,11 +1918,11 @@
             },
             {
                 "to": {
-                    "startLine": 130,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 4980,
+                    "startOffset": 9193,
                     "endColumn": 56,
-                    "endOffset": 5032
+                    "endOffset": 9245
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1065,11 +1937,11 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 5037,
+                    "startOffset": 9250,
                     "endColumn": 56,
-                    "endOffset": 5089
+                    "endOffset": 9302
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1084,11 +1956,11 @@
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 5094,
+                    "startOffset": 9307,
                     "endColumn": 56,
-                    "endOffset": 5146
+                    "endOffset": 9359
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1103,11 +1975,11 @@
             },
             {
                 "to": {
-                    "startLine": 133,
+                    "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 5151,
+                    "startOffset": 9364,
                     "endColumn": 61,
-                    "endOffset": 5208
+                    "endOffset": 9421
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1122,11 +1994,11 @@
             },
             {
                 "to": {
-                    "startLine": 134,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 5213,
+                    "startOffset": 9426,
                     "endColumn": 61,
-                    "endOffset": 5270
+                    "endOffset": 9483
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1141,11 +2013,11 @@
             },
             {
                 "to": {
-                    "startLine": 135,
+                    "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 5275,
+                    "startOffset": 9488,
                     "endColumn": 60,
-                    "endOffset": 5331
+                    "endOffset": 9544
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1160,11 +2032,11 @@
             },
             {
                 "to": {
-                    "startLine": 136,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 5336,
+                    "startOffset": 14482,
                     "endColumn": 57,
-                    "endOffset": 5389
+                    "endOffset": 14535
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1179,11 +2051,11 @@
             },
             {
                 "to": {
-                    "startLine": 137,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 5394,
+                    "startOffset": 14540,
                     "endColumn": 55,
-                    "endOffset": 5445
+                    "endOffset": 14591
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1198,11 +2070,11 @@
             },
             {
                 "to": {
-                    "startLine": 138,
+                    "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 5450,
+                    "startOffset": 14596,
                     "endColumn": 47,
-                    "endOffset": 5493
+                    "endOffset": 14639
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1217,11 +2089,11 @@
             },
             {
                 "to": {
-                    "startLine": 139,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 5498,
+                    "startOffset": 14644,
                     "endColumn": 41,
-                    "endOffset": 5535
+                    "endOffset": 14681
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1236,11 +2108,11 @@
             },
             {
                 "to": {
-                    "startLine": 140,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 5540,
+                    "startOffset": 14686,
                     "endColumn": 42,
-                    "endOffset": 5578
+                    "endOffset": 14724
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1255,11 +2127,11 @@
             },
             {
                 "to": {
-                    "startLine": 141,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 5583,
+                    "startOffset": 14729,
                     "endColumn": 43,
-                    "endOffset": 5622
+                    "endOffset": 14768
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1274,11 +2146,11 @@
             },
             {
                 "to": {
-                    "startLine": 142,
+                    "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 5627,
+                    "startOffset": 14773,
                     "endColumn": 41,
-                    "endOffset": 5664
+                    "endOffset": 14810
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/dimens.xml",
@@ -1293,11 +2165,11 @@
             },
             {
                 "to": {
-                    "startLine": 143,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 5669,
+                    "startOffset": 14815,
                     "endColumn": 48,
-                    "endOffset": 5713
+                    "endOffset": 14859
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1312,11 +2184,11 @@
             },
             {
                 "to": {
-                    "startLine": 144,
+                    "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 5718,
+                    "startOffset": 14864,
                     "endColumn": 44,
-                    "endOffset": 5758
+                    "endOffset": 14904
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1331,11 +2203,11 @@
             },
             {
                 "to": {
-                    "startLine": 145,
+                    "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 5763,
+                    "startOffset": 14909,
                     "endColumn": 51,
-                    "endOffset": 5810
+                    "endOffset": 14956
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1350,11 +2222,11 @@
             },
             {
                 "to": {
-                    "startLine": 146,
+                    "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 5815,
+                    "startOffset": 14961,
                     "endColumn": 54,
-                    "endOffset": 5865
+                    "endOffset": 15011
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1369,11 +2241,11 @@
             },
             {
                 "to": {
-                    "startLine": 147,
+                    "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 5870,
+                    "startOffset": 15016,
                     "endColumn": 42,
-                    "endOffset": 5908
+                    "endOffset": 15054
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1388,11 +2260,11 @@
             },
             {
                 "to": {
-                    "startLine": 148,
+                    "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 5913,
+                    "startOffset": 15059,
                     "endColumn": 56,
-                    "endOffset": 5965
+                    "endOffset": 15111
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -1407,106 +2279,106 @@
             },
             {
                 "to": {
-                    "startLine": 149,
+                    "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 5970,
+                    "startOffset": 15116,
                     "endColumn": 37,
-                    "endOffset": 6003
+                    "endOffset": 15149
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 143,
                         "startColumn": 4,
-                        "startOffset": 6584,
+                        "startOffset": 6578,
                         "endColumn": 37,
-                        "endOffset": 6617
+                        "endOffset": 6611
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 150,
+                    "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 6008,
+                    "startOffset": 15154,
                     "endColumn": 51,
-                    "endOffset": 6055
+                    "endOffset": 15201
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 144,
                         "startColumn": 4,
-                        "startOffset": 6622,
+                        "startOffset": 6616,
                         "endColumn": 51,
-                        "endOffset": 6669
+                        "endOffset": 6663
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 151,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 6060,
+                    "startOffset": 15206,
                     "endColumn": 61,
-                    "endOffset": 6117
+                    "endOffset": 15263
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 2478,
+                        "startOffset": 2472,
                         "endColumn": 61,
-                        "endOffset": 2535
+                        "endOffset": 2529
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 152,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 6122,
+                    "startOffset": 15268,
                     "endColumn": 59,
-                    "endOffset": 6177
+                    "endOffset": 15323
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
-                        "startOffset": 8201,
+                        "startOffset": 8195,
                         "endColumn": 59,
-                        "endOffset": 8256
+                        "endOffset": 8250
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 153,
+                    "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 6182,
+                    "startOffset": 15328,
                     "endColumn": 55,
-                    "endOffset": 6233
+                    "endOffset": 15379
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
-                        "startOffset": 8085,
+                        "startOffset": 8079,
                         "endColumn": 55,
-                        "endOffset": 8136
+                        "endOffset": 8130
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 154,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 6238,
+                    "startOffset": 15384,
                     "endColumn": 157,
-                    "endOffset": 6391
+                    "endOffset": 15537
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -1521,87 +2393,87 @@
             },
             {
                 "to": {
-                    "startLine": 155,
+                    "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 6396,
+                    "startOffset": 15542,
                     "endColumn": 57,
-                    "endOffset": 6449
+                    "endOffset": 15595
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 163,
                         "startColumn": 4,
-                        "startOffset": 7531,
+                        "startOffset": 7525,
                         "endColumn": 57,
-                        "endOffset": 7584
+                        "endOffset": 7578
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 156,
+                    "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 6454,
+                    "startOffset": 15600,
                     "endColumn": 54,
-                    "endOffset": 6504
+                    "endOffset": 15650
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
-                        "startOffset": 7124,
+                        "startOffset": 7118,
                         "endColumn": 54,
-                        "endOffset": 7174
+                        "endOffset": 7168
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 157,
+                    "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 6509,
+                    "startOffset": 15655,
                     "endColumn": 46,
-                    "endOffset": 6551
+                    "endOffset": 15697
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 158,
                         "startColumn": 4,
-                        "startOffset": 7179,
+                        "startOffset": 7173,
                         "endColumn": 46,
-                        "endOffset": 7221
+                        "endOffset": 7215
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 158,
+                    "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 6556,
+                    "startOffset": 15702,
                     "endColumn": 59,
-                    "endOffset": 6611
+                    "endOffset": 15757
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
-                        "startOffset": 7471,
+                        "startOffset": 7465,
                         "endColumn": 59,
-                        "endOffset": 7526
+                        "endOffset": 7520
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 6616,
+                    "startOffset": 15762,
                     "endColumn": 47,
-                    "endOffset": 6659
+                    "endOffset": 15805
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -1616,11 +2488,11 @@
             },
             {
                 "to": {
-                    "startLine": 160,
+                    "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 6664,
+                    "startOffset": 15810,
                     "endColumn": 44,
-                    "endOffset": 6704
+                    "endOffset": 15850
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -1635,49 +2507,49 @@
             },
             {
                 "to": {
-                    "startLine": 161,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 6709,
+                    "startOffset": 15855,
                     "endColumn": 117,
-                    "endOffset": 6822
+                    "endOffset": 15968
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1250,
+                        "startOffset": 1246,
                         "endColumn": 111,
-                        "endOffset": 1357
+                        "endOffset": 1353
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 162,
+                    "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 6827,
+                    "startOffset": 15973,
                     "endColumn": 50,
-                    "endOffset": 6873
+                    "endOffset": 16019
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
-                        "startOffset": 7830,
+                        "startOffset": 7824,
                         "endColumn": 50,
-                        "endOffset": 7876
+                        "endOffset": 7870
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 163,
+                    "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 6878,
+                    "startOffset": 16024,
                     "endColumn": 162,
-                    "endOffset": 7036
+                    "endOffset": 16182
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -1692,11 +2564,11 @@
             },
             {
                 "to": {
-                    "startLine": 164,
+                    "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 7041,
+                    "startOffset": 16187,
                     "endColumn": 91,
-                    "endOffset": 7128
+                    "endOffset": 16274
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -1711,129 +2583,129 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 7133,
+                    "startOffset": 16279,
                     "endColumn": 79,
-                    "endOffset": 7208
+                    "endOffset": 16354
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 4,
-                        "startOffset": 5366,
+                        "startOffset": 5360,
                         "endColumn": 79,
-                        "endOffset": 5441
+                        "endOffset": 5435
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 166,
+                    "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 7213,
+                    "startOffset": 16359,
                     "endColumn": 76,
-                    "endOffset": 7285
+                    "endOffset": 16431
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 5217,
+                        "startOffset": 5211,
                         "endColumn": 76,
-                        "endOffset": 5289
+                        "endOffset": 5283
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 167,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 7290,
-                    "endLine": 169,
+                    "startOffset": 16436,
+                    "endLine": 261,
                     "endColumn": 58,
-                    "endOffset": 7570
+                    "endOffset": 16716
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
-                        "startOffset": 8768,
+                        "startOffset": 8762,
                         "endLine": 186,
                         "endColumn": 58,
-                        "endOffset": 9048
+                        "endOffset": 9042
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 7575,
-                    "endLine": 171,
+                    "startOffset": 16721,
+                    "endLine": 263,
                     "endColumn": 57,
-                    "endOffset": 7758
+                    "endOffset": 16904
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
-                        "startOffset": 9053,
+                        "startOffset": 9047,
                         "endLine": 188,
                         "endColumn": 57,
-                        "endOffset": 9236
+                        "endOffset": 9230
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 7763,
+                    "startOffset": 16909,
                     "endColumn": 35,
-                    "endOffset": 7794
+                    "endOffset": 16940
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
-                        "startOffset": 7919,
+                        "startOffset": 7913,
                         "endColumn": 35,
-                        "endOffset": 7950
+                        "endOffset": 7944
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 7799,
+                    "startOffset": 16945,
                     "endColumn": 57,
-                    "endOffset": 7852
+                    "endOffset": 16998
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 152,
                         "startColumn": 4,
-                        "startOffset": 6939,
+                        "startOffset": 6933,
                         "endColumn": 57,
-                        "endOffset": 6992
+                        "endOffset": 6986
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 174,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 7857,
+                    "startOffset": 17003,
                     "endColumn": 50,
-                    "endOffset": 7903
+                    "endOffset": 17049
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -1848,469 +2720,488 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 7908,
+                    "startOffset": 17054,
                     "endColumn": 99,
-                    "endOffset": 8003
+                    "endOffset": 17149
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1457,
+                        "startOffset": 1453,
                         "endColumn": 99,
-                        "endOffset": 1552
+                        "endOffset": 1548
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 8008,
+                    "startOffset": 17154,
                     "endColumn": 59,
-                    "endOffset": 8063
+                    "endOffset": 17209
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 2599,
+                        "startOffset": 2593,
                         "endColumn": 59,
-                        "endOffset": 2654
+                        "endOffset": 2648
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 8068,
+                    "startOffset": 17214,
                     "endColumn": 58,
-                    "endOffset": 8122
+                    "endOffset": 17268
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
-                        "startOffset": 2540,
+                        "startOffset": 2534,
                         "endColumn": 58,
-                        "endOffset": 2594
+                        "endOffset": 2588
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 178,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 8127,
+                    "startOffset": 17273,
                     "endColumn": 52,
-                    "endOffset": 8175
+                    "endOffset": 17321
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
-                        "startOffset": 7648,
+                        "startOffset": 7642,
                         "endColumn": 52,
-                        "endOffset": 7696
+                        "endOffset": 7690
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 179,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 8180,
+                    "startOffset": 17326,
                     "endColumn": 74,
-                    "endOffset": 8250
+                    "endOffset": 17396
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
-                        "startOffset": 8693,
+                        "startOffset": 8687,
                         "endColumn": 74,
-                        "endOffset": 8763
+                        "endOffset": 8757
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 8255,
-                    "endLine": 181,
+                    "startOffset": 17401,
+                    "endLine": 273,
                     "endColumn": 28,
-                    "endOffset": 8371
+                    "endOffset": 17517
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
-                        "startOffset": 9241,
+                        "startOffset": 9235,
                         "endLine": 190,
                         "endColumn": 28,
-                        "endOffset": 9357
+                        "endOffset": 9351
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 8376,
+                    "startOffset": 17522,
+                    "endColumn": 69,
+                    "endOffset": 17587
+                },
+                "from": {
+                    "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 9415,
+                        "endColumn": 69,
+                        "endOffset": 9480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 17592,
                     "endColumn": 51,
-                    "endOffset": 8423
+                    "endOffset": 17639
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
-                        "startOffset": 8526,
+                        "startOffset": 8520,
                         "endColumn": 51,
-                        "endOffset": 8573
+                        "endOffset": 8567
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 183,
+                    "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 8428,
+                    "startOffset": 17644,
                     "endColumn": 63,
-                    "endOffset": 8487
+                    "endOffset": 17703
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
-                        "startOffset": 8261,
+                        "startOffset": 8255,
                         "endColumn": 63,
-                        "endOffset": 8320
+                        "endOffset": 8314
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 8492,
+                    "startOffset": 17708,
                     "endColumn": 59,
-                    "endOffset": 8547
+                    "endOffset": 17763
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 8141,
+                        "startOffset": 8135,
                         "endColumn": 59,
-                        "endOffset": 8196
+                        "endOffset": 8190
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 8552,
+                    "startOffset": 17768,
                     "endColumn": 79,
-                    "endOffset": 8627
+                    "endOffset": 17843
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
-                        "startOffset": 7226,
+                        "startOffset": 7220,
                         "endColumn": 79,
-                        "endOffset": 7301
+                        "endOffset": 7295
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 8632,
+                    "startOffset": 17848,
                     "endColumn": 80,
-                    "endOffset": 8708
+                    "endOffset": 17924
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 4,
-                        "startOffset": 7390,
+                        "startOffset": 7384,
                         "endColumn": 80,
-                        "endOffset": 7466
+                        "endOffset": 7460
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 8713,
+                    "startOffset": 17929,
                     "endColumn": 44,
-                    "endOffset": 8753
+                    "endOffset": 17969
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 147,
                         "startColumn": 4,
-                        "startOffset": 6782,
+                        "startOffset": 6776,
                         "endColumn": 44,
-                        "endOffset": 6822
+                        "endOffset": 6816
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 8758,
+                    "startOffset": 17974,
                     "endColumn": 57,
-                    "endOffset": 8811
+                    "endOffset": 18027
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 4,
-                        "startOffset": 6724,
+                        "startOffset": 6718,
                         "endColumn": 57,
-                        "endOffset": 6777
+                        "endOffset": 6771
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 8816,
+                    "startOffset": 18032,
                     "endColumn": 42,
-                    "endOffset": 8854
+                    "endOffset": 18070
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
-                        "startOffset": 6827,
+                        "startOffset": 6821,
                         "endColumn": 42,
-                        "endOffset": 6865
+                        "endOffset": 6859
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 8859,
+                    "startOffset": 18075,
                     "endColumn": 49,
-                    "endOffset": 8904
+                    "endOffset": 18120
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 145,
                         "startColumn": 4,
-                        "startOffset": 6674,
+                        "startOffset": 6668,
                         "endColumn": 49,
-                        "endOffset": 6719
+                        "endOffset": 6713
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 8909,
+                    "startOffset": 18125,
                     "endColumn": 47,
-                    "endOffset": 8952
+                    "endOffset": 18168
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
-                        "startOffset": 8578,
+                        "startOffset": 8572,
                         "endColumn": 47,
-                        "endOffset": 8621
+                        "endOffset": 8615
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 8957,
+                    "startOffset": 18173,
                     "endColumn": 48,
-                    "endOffset": 9001
+                    "endOffset": 18217
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 4,
-                        "startOffset": 4847,
+                        "startOffset": 4841,
                         "endColumn": 48,
-                        "endOffset": 4891
+                        "endOffset": 4885
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 9006,
+                    "startOffset": 18222,
                     "endColumn": 44,
-                    "endOffset": 9046
+                    "endOffset": 18262
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
-                        "startOffset": 8040,
+                        "startOffset": 8034,
                         "endColumn": 44,
-                        "endOffset": 8080
+                        "endOffset": 8074
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 9051,
+                    "startOffset": 18267,
                     "endColumn": 50,
-                    "endOffset": 9097
+                    "endOffset": 18313
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
-                        "startOffset": 7989,
+                        "startOffset": 7983,
                         "endColumn": 50,
-                        "endOffset": 8035
+                        "endOffset": 8029
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 9102,
+                    "startOffset": 18318,
                     "endColumn": 89,
-                    "endOffset": 9187
+                    "endOffset": 18403
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
-                        "startOffset": 4245,
+                        "startOffset": 4239,
                         "endColumn": 89,
-                        "endOffset": 4330
+                        "endOffset": 4324
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 9192,
+                    "startOffset": 18408,
                     "endColumn": 33,
-                    "endOffset": 9221
+                    "endOffset": 18437
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
-                        "startOffset": 7955,
+                        "startOffset": 7949,
                         "endColumn": 33,
-                        "endOffset": 7984
+                        "endOffset": 7978
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 9226,
+                    "startOffset": 18442,
                     "endColumn": 92,
-                    "endOffset": 9314
+                    "endOffset": 18530
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 4,
-                        "startOffset": 5579,
+                        "startOffset": 5573,
                         "endColumn": 92,
-                        "endOffset": 5667
+                        "endOffset": 5661
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 9319,
+                    "startOffset": 18535,
                     "endColumn": 132,
-                    "endOffset": 9447
+                    "endOffset": 18663
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,
-                        "startOffset": 5446,
+                        "startOffset": 5440,
                         "endColumn": 132,
-                        "endOffset": 5574
+                        "endOffset": 5568
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 9452,
+                    "startOffset": 18668,
                     "endColumn": 58,
-                    "endOffset": 9506
+                    "endOffset": 18722
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
-                        "startOffset": 7589,
+                        "startOffset": 7583,
                         "endColumn": 58,
-                        "endOffset": 7643
+                        "endOffset": 7637
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 9511,
+                    "startOffset": 18727,
                     "endColumn": 57,
-                    "endOffset": 9564
+                    "endOffset": 18780
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -2325,49 +3216,49 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 9569,
+                    "startOffset": 18785,
                     "endColumn": 59,
-                    "endOffset": 9624
+                    "endOffset": 18840
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 7701,
+                        "startOffset": 7695,
                         "endColumn": 65,
-                        "endOffset": 7762
+                        "endOffset": 7756
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 9629,
+                    "startOffset": 18845,
                     "endColumn": 37,
-                    "endOffset": 9662
+                    "endOffset": 18878
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 7881,
+                        "startOffset": 7875,
                         "endColumn": 37,
-                        "endOffset": 7914
+                        "endOffset": 7908
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 9667,
+                    "startOffset": 18883,
                     "endColumn": 194,
-                    "endOffset": 9857
+                    "endOffset": 19073
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -2382,30 +3273,30 @@
             },
             {
                 "to": {
-                    "startLine": 204,
+                    "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 9862,
+                    "startOffset": 19078,
                     "endColumn": 50,
-                    "endOffset": 9908
+                    "endOffset": 19124
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
-                        "startOffset": 8475,
+                        "startOffset": 8469,
                         "endColumn": 50,
-                        "endOffset": 8521
+                        "endOffset": 8515
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 9913,
+                    "startOffset": 19129,
                     "endColumn": 132,
-                    "endOffset": 10041
+                    "endOffset": 19257
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -2420,30 +3311,30 @@
             },
             {
                 "to": {
-                    "startLine": 206,
+                    "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 10046,
+                    "startOffset": 19262,
                     "endColumn": 66,
-                    "endOffset": 10108
+                    "endOffset": 19324
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
-                        "startOffset": 8626,
+                        "startOffset": 8620,
                         "endColumn": 66,
-                        "endOffset": 8688
+                        "endOffset": 8682
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 10113,
+                    "startOffset": 19329,
                     "endColumn": 146,
-                    "endOffset": 10255
+                    "endOffset": 19471
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -2458,695 +3349,695 @@
             },
             {
                 "to": {
-                    "startLine": 208,
+                    "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 10260,
+                    "startOffset": 19476,
                     "endColumn": 149,
-                    "endOffset": 10405
+                    "endOffset": 19621
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 178,
                         "startColumn": 4,
-                        "startOffset": 8325,
+                        "startOffset": 8319,
                         "endColumn": 149,
-                        "endOffset": 8470
+                        "endOffset": 8464
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 10410,
+                    "startOffset": 19626,
                     "endColumn": 49,
-                    "endOffset": 10455
+                    "endOffset": 19671
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
-                        "startOffset": 7029,
+                        "startOffset": 7023,
                         "endColumn": 49,
-                        "endOffset": 7074
+                        "endOffset": 7068
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 10460,
+                    "startOffset": 19676,
                     "endColumn": 44,
-                    "endOffset": 10500
+                    "endOffset": 19716
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
-                        "startOffset": 4539,
+                        "startOffset": 4533,
                         "endColumn": 44,
-                        "endOffset": 4579
+                        "endOffset": 4573
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 10505,
+                    "startOffset": 19721,
                     "endColumn": 26,
-                    "endOffset": 10527
+                    "endOffset": 19743
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 3154,
+                        "startOffset": 3148,
                         "endColumn": 34,
-                        "endOffset": 3184
+                        "endOffset": 3178
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 212,
+                    "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 10532,
+                    "startOffset": 19748,
                     "endColumn": 47,
-                    "endOffset": 10575
+                    "endOffset": 19791
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
-                        "startOffset": 4399,
+                        "startOffset": 4393,
                         "endColumn": 47,
-                        "endOffset": 4442
+                        "endOffset": 4436
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 10580,
+                    "startOffset": 19796,
                     "endColumn": 42,
-                    "endOffset": 10618
+                    "endOffset": 19834
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 4,
-                        "startOffset": 4496,
+                        "startOffset": 4490,
                         "endColumn": 42,
-                        "endOffset": 4534
+                        "endOffset": 4528
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 10623,
+                    "startOffset": 19839,
                     "endColumn": 48,
-                    "endOffset": 10667
+                    "endOffset": 19883
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
-                        "startOffset": 4447,
+                        "startOffset": 4441,
                         "endColumn": 48,
-                        "endOffset": 4491
+                        "endOffset": 4485
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 10672,
+                    "startOffset": 19888,
                     "endColumn": 41,
-                    "endOffset": 10709
+                    "endOffset": 19925
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 4,
-                        "startOffset": 5756,
+                        "startOffset": 5750,
                         "endColumn": 41,
-                        "endOffset": 5793
+                        "endOffset": 5787
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 10714,
+                    "startOffset": 19930,
                     "endColumn": 44,
-                    "endOffset": 10754
+                    "endOffset": 19970
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 4,
-                        "startOffset": 5672,
+                        "startOffset": 5666,
                         "endColumn": 44,
-                        "endOffset": 5712
+                        "endOffset": 5706
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 10759,
+                    "startOffset": 19975,
                     "endColumn": 45,
-                    "endOffset": 10800
+                    "endOffset": 20016
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 2723,
+                        "startOffset": 2717,
                         "endColumn": 45,
-                        "endOffset": 2764
+                        "endOffset": 2758
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 10805,
+                    "startOffset": 20021,
                     "endColumn": 58,
-                    "endOffset": 10859
+                    "endOffset": 20075
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 2911,
+                        "startOffset": 2905,
                         "endColumn": 58,
-                        "endOffset": 2965
+                        "endOffset": 2959
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 10864,
+                    "startOffset": 20080,
                     "endColumn": 40,
-                    "endOffset": 10900
+                    "endOffset": 20116
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
-                        "startOffset": 4806,
+                        "startOffset": 4800,
                         "endColumn": 40,
-                        "endOffset": 4842
+                        "endOffset": 4836
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 10905,
+                    "startOffset": 20121,
                     "endColumn": 56,
-                    "endOffset": 10957
+                    "endOffset": 20173
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
-                        "startOffset": 4984,
+                        "startOffset": 4978,
                         "endColumn": 56,
-                        "endOffset": 5036
+                        "endOffset": 5030
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 221,
+                    "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 10962,
+                    "startOffset": 20178,
                     "endColumn": 50,
-                    "endOffset": 11008
+                    "endOffset": 20224
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
-                        "startOffset": 5041,
+                        "startOffset": 5035,
                         "endColumn": 50,
-                        "endOffset": 5087
+                        "endOffset": 5081
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 11013,
+                    "startOffset": 20229,
                     "endColumn": 43,
-                    "endOffset": 11052
+                    "endOffset": 20268
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 2818,
+                        "startOffset": 2812,
                         "endColumn": 43,
-                        "endOffset": 2857
+                        "endOffset": 2851
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 223,
+                    "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 11057,
+                    "startOffset": 20273,
                     "endColumn": 44,
-                    "endOffset": 11097
+                    "endOffset": 20313
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
-                        "startOffset": 4132,
+                        "startOffset": 4126,
                         "endColumn": 44,
-                        "endOffset": 4172
+                        "endOffset": 4166
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 11102,
+                    "startOffset": 20318,
                     "endColumn": 63,
-                    "endOffset": 11161
+                    "endOffset": 20377
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
-                        "startOffset": 4335,
+                        "startOffset": 4329,
                         "endColumn": 63,
-                        "endOffset": 4394
+                        "endOffset": 4388
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 225,
+                    "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 11166,
+                    "startOffset": 20382,
                     "endColumn": 48,
-                    "endOffset": 11210
+                    "endOffset": 20426
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 2769,
+                        "startOffset": 2763,
                         "endColumn": 48,
-                        "endOffset": 2813
+                        "endOffset": 2807
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 11215,
+                    "startOffset": 20431,
                     "endColumn": 38,
-                    "endOffset": 11249
+                    "endOffset": 20465
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 4,
-                        "startOffset": 5717,
+                        "startOffset": 5711,
                         "endColumn": 38,
-                        "endOffset": 5751
+                        "endOffset": 5745
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 11254,
+                    "startOffset": 20470,
                     "endColumn": 45,
-                    "endOffset": 11295
+                    "endOffset": 20511
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
-                        "startOffset": 5171,
+                        "startOffset": 5165,
                         "endColumn": 45,
-                        "endOffset": 5212
+                        "endOffset": 5206
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 11300,
+                    "startOffset": 20516,
                     "endColumn": 59,
-                    "endOffset": 11355
+                    "endOffset": 20571
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 5111,
+                        "startOffset": 5105,
                         "endColumn": 59,
-                        "endOffset": 5166
+                        "endOffset": 5160
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 229,
+                    "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 11360,
+                    "startOffset": 20576,
                     "endColumn": 58,
-                    "endOffset": 11414
+                    "endOffset": 20630
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 3021,
+                        "startOffset": 3015,
                         "endColumn": 58,
-                        "endOffset": 3075
+                        "endOffset": 3069
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 11419,
+                    "startOffset": 20635,
                     "endColumn": 73,
-                    "endOffset": 11488
+                    "endOffset": 20704
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
-                        "startOffset": 3080,
+                        "startOffset": 3074,
                         "endColumn": 73,
-                        "endOffset": 3149
+                        "endOffset": 3143
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 231,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 11493,
+                    "startOffset": 20709,
                     "endColumn": 48,
-                    "endOffset": 11537
+                    "endOffset": 20753
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 2862,
+                        "startOffset": 2856,
                         "endColumn": 48,
-                        "endOffset": 2906
+                        "endOffset": 2900
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 11542,
+                    "startOffset": 20758,
                     "endColumn": 46,
-                    "endOffset": 11584
+                    "endOffset": 20800
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
-                        "startOffset": 4627,
+                        "startOffset": 4621,
                         "endColumn": 46,
-                        "endOffset": 4669
+                        "endOffset": 4663
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 11589,
+                    "startOffset": 20805,
                     "endColumn": 60,
-                    "endOffset": 11645
+                    "endOffset": 20861
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 4,
-                        "startOffset": 4923,
+                        "startOffset": 4917,
                         "endColumn": 60,
-                        "endOffset": 4979
+                        "endOffset": 4973
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 11650,
+                    "startOffset": 20866,
                     "endColumn": 54,
-                    "endOffset": 11700
+                    "endOffset": 20916
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
-                        "startOffset": 4077,
+                        "startOffset": 4071,
                         "endColumn": 54,
-                        "endOffset": 4127
+                        "endOffset": 4121
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 235,
+                    "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 11705,
+                    "startOffset": 20921,
                     "endColumn": 63,
-                    "endOffset": 11764
+                    "endOffset": 20980
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 2659,
+                        "startOffset": 2653,
                         "endColumn": 63,
-                        "endOffset": 2718
+                        "endOffset": 2712
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 236,
+                    "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 11769,
+                    "startOffset": 20985,
                     "endColumn": 44,
-                    "endOffset": 11809
+                    "endOffset": 21025
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
-                        "startOffset": 4177,
+                        "startOffset": 4171,
                         "endColumn": 44,
-                        "endOffset": 4217
+                        "endOffset": 4211
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 11814,
+                    "startOffset": 21030,
                     "endColumn": 49,
-                    "endOffset": 11859
+                    "endOffset": 21075
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
-                        "startOffset": 4674,
+                        "startOffset": 4668,
                         "endColumn": 49,
-                        "endOffset": 4719
+                        "endOffset": 4713
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 238,
+                    "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 11864,
+                    "startOffset": 21080,
                     "endColumn": 38,
-                    "endOffset": 11898
+                    "endOffset": 21114
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
-                        "startOffset": 4724,
+                        "startOffset": 4718,
                         "endColumn": 38,
-                        "endOffset": 4758
+                        "endOffset": 4752
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 239,
+                    "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 11903,
+                    "startOffset": 21119,
                     "endColumn": 42,
-                    "endOffset": 11941
+                    "endOffset": 21157
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
-                        "startOffset": 4763,
+                        "startOffset": 4757,
                         "endColumn": 42,
-                        "endOffset": 4801
+                        "endOffset": 4795
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 11946,
+                    "startOffset": 21162,
                     "endColumn": 50,
-                    "endOffset": 11992
+                    "endOffset": 21208
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 2970,
+                        "startOffset": 2964,
                         "endColumn": 50,
-                        "endOffset": 3016
+                        "endOffset": 3010
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 11997,
+                    "startOffset": 21213,
                     "endColumn": 42,
-                    "endOffset": 12035
+                    "endOffset": 21251
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
-                        "startOffset": 4584,
+                        "startOffset": 4578,
                         "endColumn": 42,
-                        "endOffset": 4622
+                        "endOffset": 4616
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 242,
+                    "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 12040,
+                    "startOffset": 21256,
                     "endColumn": 83,
-                    "endOffset": 12119
+                    "endOffset": 21335
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
-                        "startOffset": 7306,
+                        "startOffset": 7300,
                         "endColumn": 83,
-                        "endOffset": 7385
+                        "endOffset": 7379
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 243,
+                    "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 12124,
+                    "startOffset": 21340,
                     "endColumn": 62,
-                    "endOffset": 12182
+                    "endOffset": 21398
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
-                        "startOffset": 7767,
+                        "startOffset": 7761,
                         "endColumn": 62,
-                        "endOffset": 7825
+                        "endOffset": 7819
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 12187,
+                    "startOffset": 21403,
                     "endColumn": 41,
-                    "endOffset": 12224
+                    "endOffset": 21440
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -3161,163 +4052,163 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 12229,
+                    "startOffset": 21445,
                     "endColumn": 44,
-                    "endOffset": 12269
+                    "endOffset": 21485
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 156,
                         "startColumn": 4,
-                        "startOffset": 7079,
+                        "startOffset": 7073,
                         "endColumn": 44,
-                        "endOffset": 7119
+                        "endOffset": 7113
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 246,
+                    "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 12274,
+                    "startOffset": 21490,
                     "endColumn": 100,
-                    "endOffset": 12370
+                    "endOffset": 21586
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1362,
+                        "startOffset": 1358,
                         "endColumn": 94,
-                        "endOffset": 1452
+                        "endOffset": 1448
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 247,
+                    "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 12375,
+                    "startOffset": 21591,
                     "endColumn": 71,
-                    "endOffset": 12442
+                    "endOffset": 21658
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 4,
-                        "startOffset": 5294,
+                        "startOffset": 5288,
                         "endColumn": 71,
-                        "endOffset": 5361
+                        "endOffset": 5355
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 12447,
+                    "startOffset": 21663,
                     "endColumn": 69,
-                    "endOffset": 12512
+                    "endOffset": 21728
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 4,
-                        "startOffset": 6201,
+                        "startOffset": 6195,
                         "endColumn": 69,
-                        "endOffset": 6266
+                        "endOffset": 6260
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 249,
+                    "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 12517,
+                    "startOffset": 21733,
                     "endColumn": 94,
-                    "endOffset": 12607
+                    "endOffset": 21823
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
-                        "startOffset": 6271,
+                        "startOffset": 6265,
                         "endColumn": 94,
-                        "endOffset": 6361
+                        "endOffset": 6355
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 12612,
+                    "startOffset": 21828,
                     "endColumn": 64,
-                    "endOffset": 12672
+                    "endOffset": 21888
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 4,
-                        "startOffset": 6366,
+                        "startOffset": 6360,
                         "endColumn": 64,
-                        "endOffset": 6426
+                        "endOffset": 6420
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 12677,
+                    "startOffset": 21893,
                     "endColumn": 78,
-                    "endOffset": 12751
+                    "endOffset": 21967
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 4,
-                        "startOffset": 6431,
+                        "startOffset": 6425,
                         "endColumn": 78,
-                        "endOffset": 6505
+                        "endOffset": 6499
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 12756,
+                    "startOffset": 21972,
                     "endColumn": 73,
-                    "endOffset": 12825
+                    "endOffset": 22041
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
-                        "startOffset": 6510,
+                        "startOffset": 6504,
                         "endColumn": 73,
-                        "endOffset": 6579
+                        "endOffset": 6573
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 253,
+                    "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 12830,
+                    "startOffset": 22046,
                     "endColumn": 50,
-                    "endOffset": 12876
+                    "endOffset": 22092
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/strings.xml",
@@ -3332,11 +4223,11 @@
             },
             {
                 "to": {
-                    "startLine": 254,
+                    "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 12881,
+                    "startOffset": 22097,
                     "endColumn": 54,
-                    "endOffset": 12931
+                    "endOffset": 22147
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -3351,11 +4242,11 @@
             },
             {
                 "to": {
-                    "startLine": 255,
+                    "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 12936,
+                    "startOffset": 22152,
                     "endColumn": 116,
-                    "endOffset": 13048
+                    "endOffset": 22264
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/values/values.xml",
@@ -3370,12 +4261,12 @@
             },
             {
                 "to": {
-                    "startLine": 256,
+                    "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 13053,
-                    "endLine": 259,
+                    "startOffset": 22269,
+                    "endLine": 352,
                     "endColumn": 12,
-                    "endOffset": 13215
+                    "endOffset": 22431
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3391,12 +4282,12 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 13220,
-                    "endLine": 268,
+                    "startOffset": 22436,
+                    "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 13508
+                    "endOffset": 22724
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3412,12 +4303,12 @@
             },
             {
                 "to": {
-                    "startLine": 269,
+                    "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 13513,
-                    "endLine": 271,
+                    "startOffset": 22729,
+                    "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 13668
+                    "endOffset": 22884
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3433,12 +4324,12 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 13673,
-                    "endLine": 274,
+                    "startOffset": 22889,
+                    "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 13790
+                    "endOffset": 23006
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3454,12 +4345,12 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 13795,
-                    "endLine": 277,
+                    "startOffset": 23011,
+                    "endLine": 370,
                     "endColumn": 12,
-                    "endOffset": 13913
+                    "endOffset": 23129
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3475,12 +4366,12 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 13918,
-                    "endLine": 284,
+                    "startOffset": 23134,
+                    "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 14303
+                    "endOffset": 23519
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3496,12 +4387,12 @@
             },
             {
                 "to": {
-                    "startLine": 285,
+                    "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 14308,
-                    "endLine": 290,
+                    "startOffset": 23524,
+                    "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 14585
+                    "endOffset": 23801
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3517,12 +4408,12 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 14590,
-                    "endLine": 296,
+                    "startOffset": 23806,
+                    "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 14894
+                    "endOffset": 24110
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3538,12 +4429,12 @@
             },
             {
                 "to": {
-                    "startLine": 297,
+                    "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 14899,
-                    "endLine": 308,
+                    "startOffset": 24115,
+                    "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 15538
+                    "endOffset": 24754
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3559,12 +4450,12 @@
             },
             {
                 "to": {
-                    "startLine": 309,
+                    "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 15543,
-                    "endLine": 311,
+                    "startOffset": 24759,
+                    "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 15682
+                    "endOffset": 24898
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3580,12 +4471,12 @@
             },
             {
                 "to": {
-                    "startLine": 312,
+                    "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 15687,
-                    "endLine": 316,
+                    "startOffset": 24903,
+                    "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 15917
+                    "endOffset": 25133
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3601,12 +4492,12 @@
             },
             {
                 "to": {
-                    "startLine": 317,
+                    "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 15922,
-                    "endLine": 321,
+                    "startOffset": 25138,
+                    "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 16150
+                    "endOffset": 25366
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3622,12 +4513,12 @@
             },
             {
                 "to": {
-                    "startLine": 322,
+                    "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 16155,
-                    "endLine": 332,
+                    "startOffset": 25371,
+                    "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 16762
+                    "endOffset": 25978
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3643,12 +4534,12 @@
             },
             {
                 "to": {
-                    "startLine": 333,
+                    "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 16767,
-                    "endLine": 336,
+                    "startOffset": 25983,
+                    "endLine": 429,
                     "endColumn": 8,
-                    "endOffset": 16903
+                    "endOffset": 26119
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/mystyles.xml",
@@ -3664,12 +4555,12 @@
             },
             {
                 "to": {
-                    "startLine": 337,
+                    "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 16908,
-                    "endLine": 357,
+                    "startOffset": 26124,
+                    "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 18187
+                    "endOffset": 27403
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3685,12 +4576,12 @@
             },
             {
                 "to": {
-                    "startLine": 358,
+                    "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 18192,
-                    "endLine": 362,
+                    "startOffset": 27408,
+                    "endLine": 455,
                     "endColumn": 12,
-                    "endOffset": 18413
+                    "endOffset": 27629
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3706,12 +4597,12 @@
             },
             {
                 "to": {
-                    "startLine": 363,
+                    "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 18418,
-                    "endLine": 372,
+                    "startOffset": 27634,
+                    "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 18986
+                    "endOffset": 28202
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3727,12 +4618,12 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 18991,
-                    "endLine": 376,
+                    "startOffset": 28207,
+                    "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 19232
+                    "endOffset": 28448
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3748,12 +4639,12 @@
             },
             {
                 "to": {
-                    "startLine": 377,
+                    "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 19237,
-                    "endLine": 379,
+                    "startOffset": 28453,
+                    "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 19423
+                    "endOffset": 28639
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3769,12 +4660,12 @@
             },
             {
                 "to": {
-                    "startLine": 380,
+                    "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 19428,
-                    "endLine": 384,
+                    "startOffset": 28644,
+                    "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 19707
+                    "endOffset": 28923
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3790,12 +4681,12 @@
             },
             {
                 "to": {
-                    "startLine": 385,
+                    "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 19712,
-                    "endLine": 387,
+                    "startOffset": 28928,
+                    "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 19864
+                    "endOffset": 29080
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3811,12 +4702,12 @@
             },
             {
                 "to": {
-                    "startLine": 388,
+                    "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 19869,
-                    "endLine": 391,
+                    "startOffset": 29085,
+                    "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 20038
+                    "endOffset": 29254
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/styles.xml",
@@ -3832,12 +4723,12 @@
             },
             {
                 "to": {
-                    "startLine": 392,
+                    "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 20043,
-                    "endLine": 400,
+                    "startOffset": 29259,
+                    "endLine": 493,
                     "endColumn": 12,
-                    "endOffset": 20464
+                    "endOffset": 29680
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/mystyles.xml",
@@ -3853,12 +4744,12 @@
             },
             {
                 "to": {
-                    "startLine": 401,
+                    "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 20469,
-                    "endLine": 407,
+                    "startOffset": 29685,
+                    "endLine": 500,
                     "endColumn": 12,
-                    "endOffset": 20746
+                    "endOffset": 29962
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/mystyles.xml",
@@ -3874,12 +4765,12 @@
             },
             {
                 "to": {
-                    "startLine": 408,
+                    "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 20751,
-                    "endLine": 411,
+                    "startOffset": 29967,
+                    "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 20906
+                    "endOffset": 30122
                 },
                 "from": {
                     "file": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/values/mystyles.xml",

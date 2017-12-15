@@ -1,7 +1,5 @@
 package com.extraslice.walknpay.adapter;
 
-import java.util.List;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,6 +10,8 @@ import android.widget.TextView;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.model.ProductModel;
+
+import java.util.List;
 
 public class CartListAdapter2 extends ArrayAdapter<ProductModel> {
 	Context localcontext;

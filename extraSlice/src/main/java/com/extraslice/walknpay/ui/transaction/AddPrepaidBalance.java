@@ -1,15 +1,14 @@
 package com.extraslice.walknpay.ui.transaction;
 
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 import android.os.AsyncTask;
 
 import com.extraslice.walknpay.bl.CouponBO;
-import com.extraslice.walknpay.bl.CustomException;
 import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.dao.ProgressClass;
 import com.extraslice.walknpay.model.TransactionModel;
+
+import org.codehaus.jettison.json.JSONObject;
 
 public class AddPrepaidBalance   extends AsyncTask<Void, Void,Boolean> {
 	JSONObject inputJson;

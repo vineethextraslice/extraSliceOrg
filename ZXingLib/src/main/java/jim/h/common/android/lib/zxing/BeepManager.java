@@ -16,9 +16,6 @@
 
 package jim.h.common.android.lib.zxing;
 
-import java.io.IOException;
-
-import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
 import android.app.Activity;
 import android.content.Context;
 import android.content.res.AssetFileDescriptor;
@@ -26,6 +23,10 @@ import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Vibrator;
 import android.util.Log;
+
+import java.io.IOException;
+
+import jim.h.common.android.lib.zxing.config.ZXingLibConfig;
 
 /**
  * Manages beeps and vibrations for {@link CaptureActivity}.

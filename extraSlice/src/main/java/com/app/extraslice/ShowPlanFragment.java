@@ -1,11 +1,5 @@
 package com.app.extraslice;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.Fragment;
@@ -31,7 +25,6 @@ import android.widget.TextView;
 
 import com.app.extraslice.adapter.CustomAdapter;
 import com.app.extraslice.bo.SmartspaceBO;
-import com.app.extraslice.model.AdminAccountModel;
 import com.app.extraslice.model.PlanModel;
 import com.app.extraslice.model.PlanOfferModel;
 import com.app.extraslice.model.ResourceTypeModel;
@@ -39,6 +32,12 @@ import com.app.extraslice.model.UserModel;
 import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
+
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class ShowPlanFragment extends Fragment {
@@ -351,10 +350,10 @@ public class ShowPlanFragment extends Fragment {
 		    		}
 		    	}
 				planPrice.setText("Starts from $"+minAmount);
-				
-			
-				showPlan.setTag(model);
-				showPlan.setOnClickListener(new OnClickListener() {
+
+
+				convertView.setTag(model);
+				convertView.setOnClickListener(new OnClickListener() {
 					
 					@Override
 					public void onClick(View v) {

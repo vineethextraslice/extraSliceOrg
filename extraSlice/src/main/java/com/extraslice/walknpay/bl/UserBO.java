@@ -1,14 +1,14 @@
 package com.extraslice.walknpay.bl;
 
-import java.util.Random;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
 import com.extraslice.walknpay.dao.UserDAO;
 import com.extraslice.walknpay.model.UserModel;
 import com.extraslice.walknpay.ui.Forgot;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.Random;
 
 public class UserBO {
 

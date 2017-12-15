@@ -1,16 +1,12 @@
 package com.extraslice.walknpay.bl;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONException;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
 import com.extraslice.walknpay.dao.ProductDAO;
 import com.extraslice.walknpay.model.ProductModel;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
 
 public class ProductBO {
 	Context mContext;

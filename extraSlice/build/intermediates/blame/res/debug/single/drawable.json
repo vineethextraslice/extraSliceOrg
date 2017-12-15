@@ -1,6 +1,22 @@
 [
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable/tcket_cell_shape.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable/tcket_cell_shape.xml"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable/zxinglib_icon.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/ZXingLib/build/intermediates/bundles/default/res/drawable/zxinglib_icon.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable/corner_rectangle.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable/corner_rectangle.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable/roundcorner_edittext.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable/roundcorner_edittext.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable/color_selector.xml",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable/color_selector.xml"
     }
 ]

@@ -1,11 +1,5 @@
 package com.extraslice.walknpay.ui;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.ActionBar;
 import android.app.Activity;
 import android.app.Dialog;
@@ -38,6 +32,12 @@ import com.app.extraslice.R;
 import com.extraslice.walknpay.bl.UserBO;
 import com.extraslice.walknpay.bl.Utilities;
 import com.extraslice.walknpay.dao.ProgressClass;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class LoginScreen extends Activity implements OnClickListener {
 

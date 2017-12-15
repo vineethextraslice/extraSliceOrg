@@ -1,15 +1,14 @@
 package com.app.extraslice.bo;
 
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
 import com.app.extraslice.dao.CustAcctDAO;
 import com.app.extraslice.utils.CustomException;
 import com.app.extraslice.utils.Utilities;
-import com.stripe.model.Customer;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.List;
 
 public class CustAcctBO {
 

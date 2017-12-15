@@ -1,16 +1,16 @@
 package com.extraslice.walknpay.bl;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.codehaus.jettison.json.JSONArray;
-import org.codehaus.jettison.json.JSONObject;
-
 import android.content.Context;
 
 import com.extraslice.walknpay.dao.StoreDAO;
 import com.extraslice.walknpay.model.StoreModel;
 import com.extraslice.walknpay.ui.MenuActivity;
+
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class StoreBO {
 	Context mContext;

@@ -1,18 +1,17 @@
 package com.extraslice.walknpay.ui;
 
-import jim.h.common.android.lib.zxing.camera.PlanarYUVLuminanceSource;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import com.app.extraslice.R;
 import com.extraslice.walknpay.bl.Utilities;
+
+import jim.h.common.android.lib.zxing.camera.PlanarYUVLuminanceSource;
 
 public class CaptureActivity extends
 		jim.h.common.android.lib.zxing.CaptureActivity {

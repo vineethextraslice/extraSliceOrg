@@ -1,13 +1,5 @@
 package com.app.extraslice;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-import org.codehaus.jettison.json.JSONObject;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.Fragment;
@@ -56,9 +48,16 @@ import com.app.extraslice.utils.CustomPaymentGateway;
 import com.app.extraslice.utils.ProgressClass;
 import com.app.extraslice.utils.Utilities;
 import com.extraslice.walknpay.ui.CartFragment;
-import com.google.gson.JsonObject;
 import com.stripe.model.Charge;
 import com.stripe.model.Token;
+
+import org.codehaus.jettison.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 public class UserDetailsFragment extends Fragment {
