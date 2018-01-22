@@ -155,7 +155,7 @@ public class ReserveAConfRoom extends Fragment {
 		mContext = getActivity();
 		appRes = getResources();
 		scale= appRes.getDisplayMetrics().density;
-		getActivity().getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE);
+		//getActivity().getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE);
 		rootView = inflater.inflate(R.layout.reserve_conf_room, container,false);
 		String[] ampm = new String[]{"am","pm"};
 		for(String ap : ampm){
@@ -403,7 +403,7 @@ public class ReserveAConfRoom extends Fragment {
 		RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT,lytHeight );
 		params.setMargins(5,5,10,0);
 		params.addRule(RelativeLayout.BELOW,R.id.topLyt);
-		confRoomScrView.setLayoutParams(params);
+		//confRoomScrView.setLayoutParams(params);
 		myBookings.setOnClickListener(new OnClickListener() {
 			
 			@Override
@@ -754,6 +754,8 @@ public class ReserveAConfRoom extends Fragment {
 					reservationAdded = smBO.addReservation(reservationModel,null,amountPaid);
 				}else if (purpose.equals(DELETE_RESERVATIONS)) {
 					boolean deleted = smBO.deleteReservation(reservationModel);
+
+
 				}else if (purpose.equals(UPDATE_RESERVATIONS_STATUS)) {
 					Long trialEndsAt = reservationModel.getStartDate().getTime();
 					long currTime = new Date().getTime();

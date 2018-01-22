@@ -117,6 +117,19 @@ public class MenuActivity extends Activity {
 		rlParams.addRule(RelativeLayout.ALIGN_PARENT_TOP);*/
 		Map<String, Integer> menuMap = new HashMap<String, Integer>(1);
 		List<Map<String, Integer>> menuMapList = new ArrayList<Map<String,Integer>>(1);
+		if(Utilities.loggedInUser == null)
+		{	SmartspaceBO.accountModel=null;
+			SmartspaceBO.individualOrg=null;
+			Utilities.loggedInUser =null;
+			resetWalkNPay();
+			com.extraslice.walknpay.bl.Utilities.flag = false;
+
+			Intent intent = new Intent(MenuActivity.this, LoginActivity.class);
+			startActivity(intent);
+			HomeFragment.rootView=null;
+			finish();
+			return;
+		}
 		if(Utilities.loggedInUser.getUserType().equalsIgnoreCase("member")){
 			menuMap.put(navMenuTitles[9],  navMenuIcons.getResourceId(9, -1));
 			menuMapList.add(menuMap);

@@ -74,8 +74,9 @@ dependencies {
     compile files('libs/sun.misc.BASE64Decoder.jar')
 
 
-
+    compile 'de.hdodenhof:circleimageview:2.2.0'
     compile group: 'joda-time', name: 'joda-time', version: '2.3'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.android.support:appcompat-v7:21.0.3'
 }

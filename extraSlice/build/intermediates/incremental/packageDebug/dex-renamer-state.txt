@@ -1,4 +1,4 @@
-#Thu Dec 14 15:09:15 IST 2017
+#Thu Jan 18 10:44:08 IST 2018
 base.0=/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_755c07061ca1eb29706968c360511b6f46fdd7c5
 renamed.1=classes.dex
 renamed.0=classes2.dex

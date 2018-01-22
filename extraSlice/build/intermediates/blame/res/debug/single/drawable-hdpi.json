@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/headset.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/headset.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room_002.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room_002.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/headset.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/headset.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/goforward.png",
@@ -48,24 +48,24 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_disabled_focused_holo_dark.9.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/paymentblack.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/paymentblack.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/error.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/paymentblack.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/paymentblack.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book6.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book6.png"
     },
     {
-        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/credit_small.png",
-        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/credit_small.png"
-    },
-    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/delete1231.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/delete1231.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/credit_small.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/credit_small.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_focused_holo_dark.9.png",
@@ -74,6 +74,14 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/store_w.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/store_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/login.png",
@@ -100,6 +108,10 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/help.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/editpen.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/editpen.png"
     },
@@ -122,6 +134,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/addtocart.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/addtocart.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/backwardarrowdis.png",
@@ -172,12 +188,20 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/success.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_focused_holo_dark.9.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/btn_default_focused_holo_dark.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pressed_holo_dark.9.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/spinner_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/go.png",
@@ -240,6 +264,10 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/profile_w.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logout_1.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logout_1.png"
     },
@@ -284,12 +312,32 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/checkoutbig.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/mybooking_w.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/mybooking_w.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/paymenterror.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/paymenterror.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_share_pack_holo_light.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/leftarrow.png",
@@ -324,8 +372,20 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_default_holo_dark.9.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_black.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/ic_menu_black.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/spinner_dropdown_background_up.9.png",
@@ -340,6 +400,14 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/calendar.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/kizhi.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/kizhi.png"
     },
@@ -350,6 +418,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/about_w.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/about_w.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/eslice2.png",
@@ -372,12 +444,24 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/fvestar.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/home_black.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/home_black.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/logosymbol.png",
+        "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logosymbol.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpaynew.png",
@@ -400,6 +484,10 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/book2.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/minus_test_dis.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/minus_test_dis.png"
     },
@@ -420,12 +508,20 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/delete.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/homepic.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/homepic.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/mybookings.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/mybookings.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_disabled_holo_dark.9.png",
@@ -438,6 +534,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/blue_bubble.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/blue_bubble.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/creditcardsplus.png",
@@ -460,6 +560,10 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/forwardarrow.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/textfield_focused_holo_dark.9.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/textfield_focused_holo_dark.9.png"
     },
@@ -468,12 +572,20 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/logout_2.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/confirm.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/confirm.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/joinslice.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/joinslice.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/walknpay1.png",
@@ -500,12 +612,24 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/customer_head1.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/code.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/code.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/camera_bk.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/camera_bk.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/checkoutnew.png",
@@ -516,6 +640,10 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/arrow2.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/forum.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/forum.png"
     },
@@ -524,8 +652,16 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/rb_blue_sel.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/clear_test.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/clear_test.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/book7.png",
@@ -538,6 +674,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/about3.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/about3.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslice.png",
@@ -576,6 +716,14 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/store_black.png"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/extraslicelogo.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/extraslicelogo.png"
     },
@@ -590,6 +738,10 @@
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/conf_room_001.png",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/drawable-hdpi/conf_room_001.png"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/drawable-hdpi/loading.png",

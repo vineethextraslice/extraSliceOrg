@@ -55,7 +55,7 @@
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeNoBar"
-            android:windowSoftInputMode="adjustResize" >
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -184,7 +184,8 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="com.app.extraslice.MenuActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" />
         <activity
             android:name="com.app.extraslice.WebViewActivity"
             android:screenOrientation="portrait" />
@@ -205,6 +206,7 @@
             android:exported="false" />
 
         <activity android:name="com.app.extraslice.fragments.SupportForm" />
+        <activity android:name="com.app.extraslice.fragments.CommentsFragment" />
     </application>
 
 </manifest>

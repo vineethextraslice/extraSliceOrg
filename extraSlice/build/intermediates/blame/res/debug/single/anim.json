@@ -12,6 +12,14 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/cycle.xml"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_right_to_left_exit.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_right_to_left_exit.xml"
     },
@@ -24,11 +32,27 @@
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/slide2.xml"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/anim/abc_fade_in.xml"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_left_to_right_enter.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_left_to_right_enter.xml"
     },
     {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/frg_left_to_right_exit.xml",
         "source": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/src/main/res/anim/frg_left_to_right_exit.xml"
+    },
+    {
+        "merged": "/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/res/anim/abc_slide_in_bottom.xml"
     }
 ]

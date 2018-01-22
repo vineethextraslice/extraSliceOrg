@@ -354,44 +354,45 @@
         </LinearLayout>
     </LinearLayout>
 
-    <ScrollView
-        android:id="@+id/confRoomScrView"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/topLyt"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginTop="10dp"
-        android:gravity="top|center_horizontal" >
-
-        <LinearLayout
-            android:id="@+id/confRoomLyt"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical" >
-        </LinearLayout>
-    </ScrollView>
-
     <LinearLayout
-        android:id="@+id/buttonLyt"
-        android:layout_width="300dp"
-        android:layout_height="40dp"
-        android:layout_margin="5dp"
-        android:layout_below="@+id/confRoomScrView"
+        android:id="@+id/sample"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="1dp"
+        android:layout_below="@+id/topLyt"
         android:layout_centerHorizontal="true"
+        android:weightSum="2"
         android:gravity="center"
-        android:orientation="horizontal" >
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/confRoomScrView"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="top|center_horizontal">
+
+            <LinearLayout
+                android:id="@+id/confRoomLyt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"></LinearLayout>
+        </ScrollView>
 
         <Button
             android:id="@+id/myBookings"
-            android:layout_width="0dp"
-            android:layout_height="30dp"
-            android:layout_weight="1"
-            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
             android:background="@color/theme_dark_blue"
+            android:gravity="center"
             android:text="My Reservations"
             android:textColor="@color/white"
             android:textSize="16dp" />
     </LinearLayout>
-
 </RelativeLayout>

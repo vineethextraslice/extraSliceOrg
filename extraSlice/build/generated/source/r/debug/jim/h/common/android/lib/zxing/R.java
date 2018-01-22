@@ -8,37 +8,37 @@ package jim.h.common.android.lib.zxing;
 
 public final class R {
     public static final class color {
-        public static final int zxinglib_possible_result_points = 0x7f0a002b;
-        public static final int zxinglib_result_image_border = 0x7f0a002c;
-        public static final int zxinglib_result_points = 0x7f0a002d;
-        public static final int zxinglib_result_view = 0x7f0a002e;
-        public static final int zxinglib_status_text = 0x7f0a002f;
-        public static final int zxinglib_transparent = 0x7f0a0030;
-        public static final int zxinglib_viewfinder_frame = 0x7f0a0031;
-        public static final int zxinglib_viewfinder_laser = 0x7f0a0032;
-        public static final int zxinglib_viewfinder_mask = 0x7f0a0033;
+        public static final int zxinglib_possible_result_points = 0x7f0c005c;
+        public static final int zxinglib_result_image_border = 0x7f0c005d;
+        public static final int zxinglib_result_points = 0x7f0c005e;
+        public static final int zxinglib_result_view = 0x7f0c005f;
+        public static final int zxinglib_status_text = 0x7f0c0060;
+        public static final int zxinglib_transparent = 0x7f0c0061;
+        public static final int zxinglib_viewfinder_frame = 0x7f0c0062;
+        public static final int zxinglib_viewfinder_laser = 0x7f0c0063;
+        public static final int zxinglib_viewfinder_mask = 0x7f0c0064;
     }
     public static final class drawable {
-        public static final int zxinglib_icon = 0x7f0200ce;
+        public static final int zxinglib_icon = 0x7f020103;
     }
     public static final class id {
-        public static final int zxinglib_auto_focus = 0x7f0b0000;
-        public static final int zxinglib_decode = 0x7f0b0001;
-        public static final int zxinglib_decode_failed = 0x7f0b0002;
-        public static final int zxinglib_decode_succeeded = 0x7f0b0003;
-        public static final int zxinglib_preview_view = 0x7f0b0279;
-        public static final int zxinglib_quit = 0x7f0b0004;
-        public static final int zxinglib_return_scan_result = 0x7f0b0005;
-        public static final int zxinglib_viewfinder_view = 0x7f0b027a;
+        public static final int zxinglib_auto_focus = 0x7f0d0009;
+        public static final int zxinglib_decode = 0x7f0d000a;
+        public static final int zxinglib_decode_failed = 0x7f0d000b;
+        public static final int zxinglib_decode_succeeded = 0x7f0d000c;
+        public static final int zxinglib_preview_view = 0x7f0d02c5;
+        public static final int zxinglib_quit = 0x7f0d000d;
+        public static final int zxinglib_return_scan_result = 0x7f0d000e;
+        public static final int zxinglib_viewfinder_view = 0x7f0d02c6;
     }
     public static final class layout {
-        public static final int zxinglib_capture = 0x7f030086;
+        public static final int zxinglib_capture = 0x7f0300a0;
     }
     public static final class raw {
         public static final int zxinglib_beep = 0x7f050003;
     }
     public static final class string {
-        public static final int zxinglib_app_name = 0x7f080000;
-        public static final int zxinglib_msg_default_status = 0x7f080001;
+        public static final int zxinglib_app_name = 0x7f06000f;
+        public static final int zxinglib_msg_default_status = 0x7f060010;
     }
 }

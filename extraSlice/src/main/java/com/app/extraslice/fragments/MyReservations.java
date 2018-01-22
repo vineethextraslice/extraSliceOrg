@@ -7,6 +7,7 @@ import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.TimePickerDialog;
 import android.content.Context;
+import android.content.Intent;
 import android.content.res.Resources;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -602,8 +603,13 @@ import java.util.TimeZone;
 				setSelectedDay(selSepView,selView, selectedDayType);
 				ProgressClass.finishProgress();
 			}else if(dataType.equals(DELETE_RESERVATIONS)){
+				Fragment fragment = null;
+
+				fragment = new MyReservations();
+				FragmentManager fragmentManager = getFragmentManager();
+				Utilities.loadFragment(fragmentManager,fragment,R.id.frame_container,false);
 				String msgText = "Deleted successfully.";
-				
+
 				Toast toast = Toast.makeText(mContext,msgText, Toast.LENGTH_SHORT);
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();

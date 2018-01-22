@@ -84,6 +84,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/admin/.android/build-cache/c2104fe6f919566f2cb68f63b8ce1097b75c9327/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c97a1b0d06a2d6cfd472a15b058a1d7953d2b8b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/admin/StudioProjects/extraSliceOrg/extraSlice/libs/additionnal.jar"
         jumboMode="true"
         optimize="true"
@@ -187,7 +196,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9c3d09786f0ec55ed9bceb0c5a8e03812e2ba888">
+        sha1="b02d6a141caebd9f772f0528bd03df939cccfaa7">
         <dex dex="/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd92982197409659345cffaa571e5e3daeb1d075/classes.dex" />
     </item>
     <item
@@ -198,6 +207,15 @@
         revision="25.0.0"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
         <dex dex="/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_755c07061ca1eb29706968c360511b6f46fdd7c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/bc8675ba821c70270c95bced7a8ae74f184ea334/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/Users/admin/StudioProjects/extraSliceOrg/extraSlice/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f478c591bbc3547ab21865e28015565d621602af/classes.dex" />
     </item>
     <item
         is-multidex="true"
